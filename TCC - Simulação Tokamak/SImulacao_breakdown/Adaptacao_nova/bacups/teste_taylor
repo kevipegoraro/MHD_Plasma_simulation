@@ -1,0 +1,3 @@
+function teste_taylor
+taylor(sin(x))
+end

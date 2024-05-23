@@ -1,0 +1,46 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{10}{chapter*.7}% 
+\contentsline {section}{\numberline {0.1}Como Funciona um Tokamak}{10}{section.0.1}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Fundamenta\IeC {\c c}\IeC {\~a}o Matem\IeC {\'a}tica}}{12}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Introdu\IeC {\c c}\IeC {\~a}o ao Plasma}{12}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Defini\IeC {\c c}\IeC {\~a}o de um plasma}{13}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}A aproxima\IeC {\c c}\IeC {\~a}o de plasma}{13}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Intera\IeC {\c c}\IeC {\~o}es de volume}{13}{subsection.1.1.3}% 
+\contentsline {subsection}{\numberline {1.1.4}Frequ\IeC {\^e}ncia de plasma}{14}{subsection.1.1.4}% 
+\contentsline {subsection}{\numberline {1.1.5}Grau de ioniza\IeC {\c c}\IeC {\~a}o}{14}{subsection.1.1.5}% 
+\contentsline {subsection}{\numberline {1.1.6}Temperaturas}{14}{subsection.1.1.6}% 
+\contentsline {section}{\numberline {1.2}Fun\IeC {\c c}\IeC {\~a}o de Distribui\IeC {\c c}\IeC {\~a}o}{15}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Temperatura e Outros Momentos da Fun\IeC {\c c}\IeC {\~a}o de Distribui\IeC {\c c}\IeC {\~a}o}{16}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}O Gerador Magnetohidrodin\IeC {\^a}mico}{16}{subsection.1.2.2}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Dedu\IeC {\c c}\IeC {\~a}o Modelo de 2 Fluidos}}{17}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Equa\IeC {\c c}\IeC {\~a}o de Vlasov}{17}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Momentos da distribui\IeC {\c c}\IeC {\~a}o}{18}{section.2.2}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Cronograma}}{20}{chapter.3}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Metodologia}}{21}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Equa\IeC {\c c}\IeC {\~a}o de Vlasov}{21}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Equa\IeC {\c c}\IeC {\~a}o de Conserva\IeC {\c c}\IeC {\~a}o de Massa}{23}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Equa\IeC {\c c}\IeC {\~a}o de Conserva\IeC {\c c}\IeC {\~a}o de Momento}{23}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Equa\IeC {\c c}\IeC {\~a}o de Conserva\IeC {\c c}\IeC {\~a}o de Energia}{25}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Simplifica\IeC {\c c}\IeC {\~o}es}{28}{section.4.5}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Resultados esperados}}{31}{chapter.5}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Conclus\IeC {\~a}o}}{32}{chapter.6}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {O modelo de Townsend}}{33}{appendix.A}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Momentos da distribui\IeC {\c c}\IeC {\~a}o}}{35}{appendix.B}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Lista de Nota\IeC {\c c}\IeC {\~o}es}}{37}{appendix.C}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Valor M\IeC {\'e}dio}}{39}{appendix.D}% 

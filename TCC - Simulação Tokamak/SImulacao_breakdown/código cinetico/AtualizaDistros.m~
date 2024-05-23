@@ -1,0 +1,6 @@
+function A=AtualizaDistros(G)
+%Equacao de vlasov
+%f*(partial/partial_t+v*\nabla+*\nabla_v*(F_ext+Forçalorentz)/(m_\alfa) )=0
+%Objetivo é ter v como variavel matematica continua
+
+end

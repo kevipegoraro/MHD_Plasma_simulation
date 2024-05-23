@@ -1,0 +1,3076 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2019.4.24)  15 MAR 2020 07:43
+entering extended mode
+**./TCC_2.tex
+(TCC_2.tex
+LaTeX2e <2018-12-01>
+(/home/kevi/.miktex/texmfs/install/tex/latex/abntex2/abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/memoir/memoir.cls
+Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2018/03/31 v1.2a ifetex
+
+(/home/kevi/.miktex/texmfs/install/tex/plain/ifetex/ifetex.tex))
+(/home/kevi/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen107
+\ar@mcellbox=\box27
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\ar@cellbox=\box28
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box29
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box30
+\m@mscap@fbox=\box31
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7592.
+LaTeX Info: Redefining \emph on input line 7600.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 12114.
+LaTeX Info: Redefining \! on input line 12116.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+LaTeX Info: Redefining \MakeTextUppercase on input line 47.
+LaTeX Info: Redefining \MakeTextLowercase on input line 50.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen147
+\Hy@linkcounter=\count138
+\Hy@pagecounter=\count139
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count140
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/00miktex/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count141
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen148
+\Fld@menulength=\count142
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count143
+\c@Item=\count144
+\c@Hfootnote=\count145
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count146
+\c@Hpagenote=\count147
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count148
+\c@bookmark@seq@number=\count149
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip185
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+\BKM@id=\count150
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/kevi/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count151
+\U@D=\dimen151
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count152
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Portuguese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 55.
+
+\l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (/home/kevi/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2018/11/30 v3.6 Customized lists
+\labelindent=\skip186
+\enit@outerparindent=\dimen152
+\enit@toks=\toks23
+\enit@inbox=\box32
+\enitdp@description=\count153
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen153
+\calc@Bdimen=\dimen154
+\calc@Askip=\skip187
+\calc@Bskip=\skip188
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count156
+\calc@Cskip=\skip189
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 42pt
+Sidebarhsep and sidebarwidth: 7pt and 42pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 42pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+\c@abntex@bookmarkcounter=\count157
+\cftlastnumwidth=\skip190
+\chapternamenumlength=\skip191
+\ABNTEXcitacaorecuo=\skip192
+\c@alineasi=\count158
+\c@alineasii=\count159
+\enitdp@alineas=\count160
+\c@subalineasi=\count161
+\enitdp@subalineas=\count162
+\c@incisosi=\count163
+\enitdp@incisos=\count164
+\ABNTEXsignwidth=\skip193
+\ABNTEXsignthickness=\skip194
+\ABNTEXsignskip=\skip256
+) (/home/kevi/.miktex/texmfs/install/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/12/21 v0.69 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count165
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pstricks.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count166
+\pstFP@xia=\count167
+\pstFP@xib=\count168
+\pstFP@xfa=\count169
+\pstFP@xfb=\count170
+\pstFP@rega=\count171
+\pstFP@regb=\count172
+\pstFP@regs=\count173
+\pstFP@times=\count174
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lis
+ts.tex))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks29
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen157
+\pgf@xa=\dimen158
+\pgf@xb=\dimen159
+\pgf@xc=\dimen160
+\pgf@y=\dimen161
+\pgf@ya=\dimen162
+\pgf@yb=\dimen163
+\pgf@yc=\dimen164
+\c@pgf@counta=\count175
+\c@pgf@countb=\count176
+\c@pgf@countc=\count177
+\c@pgf@countd=\count178
+\pgfutil@tempcnta=\count179
+\pgfutil@tempcntb=\count180
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen165
+\pgfmath@count=\count181
+\pgfmath@box=\box33
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.t
+ex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.
+code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigon
+ometric.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random
+.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.compar
+ison.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.c
+ode.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.
+code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.c
+ode.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.intege
+rarithmetics.code.tex)))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count182
+))
+\pgffor@iter=\dimen166
+\pgffor@skip=\dimen167
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+)
+\psLoopIndex=\count183
+
+`PSTricks' v2.94  <2019/01/07> (tvz,hv)
+\pst@dima=\dimen168
+\pst@dimb=\dimen169
+\pst@dimc=\dimen170
+\pst@dimd=\dimen171
+\pst@dimg=\dimen172
+\pst@dimh=\dimen173
+\pst@dimm=\dimen174
+\pst@dimn=\dimen175
+\pst@dimo=\dimen176
+\pst@dimp=\dimen177
+\pst@hbox=\box34
+\pst@ibox=\box35
+\pst@boxg=\box36
+\pst@cnta=\count184
+\pst@cntb=\count185
+\pst@cntc=\count186
+\pst@cntd=\count187
+\pst@cntg=\count188
+\pst@cnth=\count189
+\pst@cntm=\count190
+\pst@cntn=\count191
+\pst@cnto=\count192
+\pst@cntp=\count193
+\@zero=\count194
+\pst@toks=\toks35
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen178
+\psxunit=\dimen179
+\psyunit=\dimen180
+\pst@C@@rType=\count266
+\pslinewidth=\dimen181
+\psk@startLW=\dimen182
+\psk@endLW=\dimen183
+\pst@customdefs=\toks36
+\pslinearc=\dimen184
+\pst@symbolStep=\dimen185
+\pst@symbolWidth=\dimen186
+\pst@symbolLinewidth=\dimen187
+\everypsbox=\toks37
+\psframesep=\dimen188
+\pslabelsep=\dimen189
+\sh@wgridXunit=\dimen190
+\sh@wgridYunit=\dimen191
+\pst@shift=\dimen192
+)
+File: pstricks.tex 2019/01/07 v2.94 `PSTricks' (tvz,hv)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2019/01/07 v2.94 `PST-fp' (hv)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen193
+\Gin@req@width=\dimen194
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip257
+
+For additional information on amsmath, use the `?' option.
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks38
+\ex@=\dimen256
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen257
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box37
+\strutbox@=\box38
+\big@size=\dimen258
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip11
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks39
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks40
+\eqnshift@=\dimen259
+\alignsep@=\dimen260
+\tagshift@=\dimen261
+\tagwidth@=\dimen262
+\totwidth@=\dimen263
+\lineht@=\dimen264
+\@envbody=\toks41
+\multlinegap=\skip258
+\multlinetaggap=\skip259
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/matlab-prettifier/matlab-prettifie
+r.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab 
+source code
+ (/home/kevi/.miktex/texmfs/install/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/listings/listings.sty
+\lst@mode=\count279
+\lst@gtempboxa=\box39
+\lst@token=\toks43
+\lst@length=\count280
+\lst@currlwidth=\dimen265
+\lst@column=\count281
+\lst@pos=\count282
+\lst@lostspace=\dimen266
+\lst@width=\dimen267
+\lst@newlines=\count283
+\lst@lineno=\count284
+\lst@maxwidth=\dimen268
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count285
+\lst@skipnumbers=\count286
+\lst@framebox=\box40
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+\netBracketCount@mlpr=\count287
+\blkLvl@mlpr=\count288
+\blkLvlAtClassdef@mlpr=\count289
+\emHeight@mlpr=\skip260
+\jayDepth@mlpr=\skip261
+\sectionRuleOffset@mlpr=\skip262
+\toks@mlpr=\toks44
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count290
+\float@exts=\toks45
+\float@box=\box41
+\@float@everytoks=\toks46
+\@floatcapt=\box42
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count291
+\mult@box=\box43
+\multicol@leftmargin=\dimen269
+\c@unbalance=\count292
+\c@collectmore=\count293
+\doublecol@number=\count294
+\multicoltolerance=\count295
+\multicolpretolerance=\count296
+\full@width=\dimen270
+\page@free=\dimen271
+\premulticols=\dimen272
+\postmulticols=\dimen273
+\multicolsep=\skip263
+\multicolbaselineskip=\skip264
+\partial@page=\box44
+\last@line=\box45
+\maxbalancingoverflow=\dimen274
+\mult@rightbox=\box46
+\mult@grightbox=\box47
+\mult@gfirstbox=\box48
+\mult@firstbox=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\c@columnbadness=\count297
+\c@finalcolumnbadness=\count298
+\last@try=\dimen275
+\multicolovershoot=\dimen276
+\multicolundershoot=\dimen277
+\mult@nat@firstbox=\box67
+\colbreak@box=\box68
+\mc@col@check@num=\count299
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/lmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/esvect/esvect.sty
+Package: esvect 
+\symesvector=\mathgroup9
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup10
+\symAMSb=\mathgroup11
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)<<t1.cmap>>)
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks47
+\inpenc@posthook=\toks48
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2018/12/29 v5.0 Nomenclature package
+\nomlabelwidth=\dimen278
+\nom@tempdim=\dimen279
+\nomitemsep=\skip265
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen280
+\AM@pageheight=\dimen281
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box69
+\AM@global@opts=\toks49
+\AM@toc@title=\toks50
+\c@AM@survey=\count300
+\AM@templatesizebox=\box70
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/ulem/ulem.sty
+\UL@box=\box71
+\UL@hyphenbox=\box72
+\UL@skip=\skip266
+\UL@hook=\toks51
+\UL@height=\dimen282
+\UL@pe=\count301
+\UL@pixel=\dimen283
+\ULC@box=\box73
+Package: ulem 2012/05/18
+\ULdepth=\dimen284
+)
+\TCC_2@idxfile=\write4
+\openout4 = `TCC_2.idx'.
+
+
+Writing index file TCC_2.idx 
+\@nomenclaturefile=\write5
+\openout5 = `TCC_2.nlo'.
+
+Package nomencl Info: Writing nomenclature file TCC_2.nlo on input line 93.
+(TCC_2.aux)
+\openout1 = `TCC_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 94.
+ (/home/kevi/.miktex/texmfs/install/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 94.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\AtBeginShipoutBox=\box74
+Package hyperref Info: Link coloring OFF on input line 94.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count302
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 94.
+LaTeX Info: Redefining \ref on input line 94.
+LaTeX Info: Redefining \pageref on input line 94.
+LaTeX Info: Redefining \nameref on input line 94.
+\myptabbox=\box75
+\myptabboxwidth=\skip267
+(/home/kevi/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen285
+\scratchbox=\box76
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen286
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks53
+)
+\c@lstlisting=\count309
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 94.
+ (/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 99.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+{/home/kevi/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 10
+1.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)<<ot1.cmap>>
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 10
+1.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)<<oml.cmap>>
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 10
+1.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)<<oms.cmap>>
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 10
+1.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)<<omx.cmap>>
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 101.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 101.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 101
+.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 101.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 101.
+LaTeX Font Info:    Try loading font information for U+esvect on input line 101
+.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/esvect/uesvect.fd
+File: uesvect.fd 
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 \cleardoublepage
+                       [1
+
+
+
+
+] [2
+
+
+] (TCC_2.toc
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 20.
+ [3
+
+]
+Overfull \hbox (1.5877pt too wide) detected at line 70
+ \T1/lmss/bx/n/12 117
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 71
+ \T1/lmss/bx/n/12 117
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 72
+ \T1/lmss/bx/n/12 118
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 73
+ \T1/lmss/bx/n/12 118
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 74
+ \T1/lmss/bx/n/12 121
+ []
+
+) [4] (TCC_2.lof
+Overfull \hbox (1.15314pt too wide) in paragraph at lines 3--3
+ [][] [][]\T1/ptm/m/n/12 Esquema básico de um tokamak [Daltrini (1999), Ferrari
+ e Nascimento (1988)].[] []  
+ []
+
+
+Overfull \hbox (7.19104pt too wide) in paragraph at lines 8--8
+ \T1/ptm/m/n/12 emissão de $\OML/ztmcm/m/it/12 D[]$\T1/ptm/m/n/12 , (c) perda d
+e potência de radiação e ionização e (d) temperatura 
+ []
+
+
+Overfull \hbox (18.62425pt too wide) in paragraph at lines 10--10
+ \T1/ptm/m/n/12 NOVA-FURG - Imagem feita no MATLAB, com valores de corrente ilu
+strativos. 
+ []
+
+
+Overfull \hbox (5.70976pt too wide) in paragraph at lines 12--12
+ [][] [][]\T1/ptm/m/n/12 Gaussiana representando o termo de fonte de par-tí-cu-
+las ($\OML/ztmcm/m/it/12 [] \OMS/ztmcm/m/n/12   \OML/ztmcm/m/it/12 []$\T1/ptm
+/m/n/12 ). Unidade 
+ []
+
+
+Overfull \hbox (11.52939pt too wide) in paragraph at lines 19--19
+ [][] [][]\T1/ptm/m/n/12 Componente toroidal da densidade de corrente de plasma
+ ($\OML/ztmcm/m/it/12 A=m[]$\T1/ptm/m/n/12 ), aproximação 
+ []
+
+[5] [6]
+Overfull \hbox (8.68108pt too wide) in paragraph at lines 48--48
+ \T1/ptm/m/n/12 no MATLAB - Verticalmente temos o valor de $\OML/ztmcm/m/it/12 
+n\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 r\OT1/ztmcm/m/n/12 )$ \T1/ptm/m/n/12 em 
+$\OML/ztmcm/m/it/12 m[]$\T1/ptm/m/n/12 , e horizontalmente 
+ []
+
+) [7] (TCC_2.lot) [8] (TCC_2.lol) [9]
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 136.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [10
+
+] [11]
+[12] [13] [14
+
+] [15]
+Overfull \hbox (3.05952pt too wide) in paragraph at lines 266--282
+\T1/ptm/m/n/12 Nuclear fusion reactions are clean, safe and the amount of fuel 
+on Earth is virtually inexhaustible.
+ []
+
+[16
+
+]
+<faixaplasma.png, id=408, 803.0pt x 803.0pt>
+File: faixaplasma.png Graphic file (type png)
+<use faixaplasma.png>
+Package pdftex.def Info: faixaplasma.png  used on input line 299.
+(pdftex.def)             Requested size: 240.90186pt x 240.90186pt.
+ [17
+
+] [18pdfTeX warning (ext4): destination with the same identifier (name{figure.1
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.323 
+       <./faixaplasma.png>] [19]
+<../Rascunho_Resumo/tokamak.png, id=440, 371.3875pt x 578.16pt>
+File: ../Rascunho_Resumo/tokamak.png Graphic file (type png)
+<use ../Rascunho_Resumo/tokamak.png>
+Package pdftex.def Info: ../Rascunho_Resumo/tokamak.png  used on input line 373
+.
+(pdftex.def)             Requested size: 334.24565pt x 520.33919pt.
+ [20]
+<tokamak12.png, id=445, 961.5925pt x 605.26125pt>
+File: tokamak12.png Graphic file (type png)
+<use tokamak12.png>
+Package pdftex.def Info: tokamak12.png  used on input line 379.
+(pdftex.def)             Requested size: 432.71263pt x 272.36504pt.
+<../MPU19/tokamak.jpeg, id=446, 872.25874pt x 1162.3425pt>
+File: ../MPU19/tokamak.jpeg Graphic file (type jpg)
+<use ../MPU19/tokamak.jpeg>
+Package pdftex.def Info: ../MPU19/tokamak.jpeg  used on input line 385.
+(pdftex.def)             Requested size: 261.67964pt x 348.70544pt.
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.388 \end{figure}
+                   <../Rascunho_Resumo/tokamak.png>]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 389.
+ [22pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \item F
+             ase de \textit{breakdown} do plasma (fase dominada pela avalanc...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.392 \item F
+             ase de \textit{breakdown} do plasma (fase dominada pela avalanc...
+ <./tokamak12.png> <../MPU19/tokamak.jpeg>]
+<avalanche.png, id=462, 629.35126pt x 401.5pt>
+File: avalanche.png Graphic file (type png)
+<use avalanche.png>
+Package pdftex.def Info: avalanche.png  used on input line 410.
+(pdftex.def)             Requested size: 377.61366pt x 240.90184pt.
+ [23]
+<burn-through-phase.png, id=481, 635.37375pt x 184.69pt>
+File: burn-through-phase.png Graphic file (type png)
+<use burn-through-phase.png>
+Package pdftex.def Info: burn-through-phase.png  used on input line 429.
+(pdftex.def)             Requested size: 254.14499pt x 73.87468pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.1.5
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.438 
+       <./avalanche.png>]
+<tabela3fases.png, id=496, 551.05875pt x 584.1825pt>
+File: tabela3fases.png Graphic file (type png)
+<use tabela3fases.png>
+Package pdftex.def Info: tabela3fases.png  used on input line 441.
+(pdftex.def)             Requested size: 220.41959pt x 233.66885pt.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.449 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{figure.1.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.449 \begin{equation}
+                       <./burn-through-phase.png> <./tabela3fases.png>]
+[26] [27
+
+] [28
+
+]
+Overfull \hbox (1.40764pt too wide) in paragraph at lines 557--559
+\T1/ptm/m/n/12 onde $\OML/lmm/b/it/12 v$ \T1/ptm/m/n/12 é a velocidade, $[][] \
+OT1/ztmcm/m/n/12 = [][] [][]$\T1/ptm/m/n/12 {$\OML/ztmcm/m/it/12 f[]$\T1/ptm/m/
+n/12 , $\OML/ztmcm/m/it/12 f[]$\T1/ptm/m/n/12 } é o operador de colisão e os op
+eradores
+ []
+
+[29
+
+] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
+<bob2.png, id=749, 489.83pt x 542.025pt>
+File: bob2.png Graphic file (type png)
+<use bob2.png>
+Package pdftex.def Info: bob2.png  used on input line 1095.
+(pdftex.def)             Requested size: 342.87866pt x 379.4149pt.
+ [40
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.5.1}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1098 \end{figure}
+                   ] [41pdfTeX warning (ext4): destination with the same identi
+fier (name{figure.5.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1103 \end{equation}
+                      <./bob2.png>]
+<campo001-2.png, id=762, 1028.34187pt x 495.35063pt>
+File: campo001-2.png Graphic file (type png)
+<use campo001-2.png>
+Package pdftex.def Info: campo001-2.png  used on input line 1119.
+(pdftex.def)             Requested size: 514.16968pt x 247.67471pt.
+
+Overfull \hbox (59.16968pt too wide) in paragraph at lines 1119--1120
+ [][] 
+ []
+
+[42]
+<campo002-2.png, id=770, 1028.34187pt x 495.35063pt>
+File: campo002-2.png Graphic file (type png)
+<use campo002-2.png>
+Package pdftex.def Info: campo002-2.png  used on input line 1126.
+(pdftex.def)             Requested size: 514.16968pt x 247.67471pt.
+
+Overfull \hbox (59.16968pt too wide) in paragraph at lines 1126--1127
+ [][] 
+ []
+
+[43pdfTeX warning (ext4): destination with the same identifier (name{figure.5.9
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1145 \begin{equation}
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.5.10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1145 \begin{equation}
+                        <./campo001-2.png (PNG copy)> <./campo002-2.png (PNG co
+py)>] [44]
+<../SImulacao_breakdown/PDE/sB.png, id=789, 421.575pt x 316.18124pt>
+File: ../SImulacao_breakdown/PDE/sB.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/sB.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/sB.png  used on input line 
+1188.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+
+Overfull \hbox (0.89848pt too wide) in paragraph at lines 1194--1199
+\T1/ptm/m/n/12 assumimos simetria azimutal. Portanto tais co-or-de-na-das podem
+ ser entendidas como um sistema
+ []
+
+[45pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1201 \end{equation}
+                      <../SImulacao_breakdown/PDE/sB.png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n3.png, id=806, 489.83pt x 382
+.42876pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n3.png Graphic file (type
+ png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n3.png
+  used on input line 1219.
+(pdftex.def)             Requested size: 195.92853pt x 152.96878pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n83.png, id=807, 494.84875pt x
+ 385.44pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n83.png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n83.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n83.pn
+g  used on input line 1220.
+(pdftex.def)             Requested size: 197.93599pt x 154.17326pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n123.png, id=808, 486.81876pt 
+x 384.43625pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n123.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n123.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n123.p
+ng  used on input line 1221.
+(pdftex.def)             Requested size: 194.72404pt x 153.77177pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n243.png, id=809, 503.8825pt x
+ 383.4325pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n243.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n243.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n243.p
+ng  used on input line 1222.
+(pdftex.def)             Requested size: 201.54942pt x 153.37029pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n363.png, id=810, 473.77pt x 3
+82.42876pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n363.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n363.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n363.p
+ng  used on input line 1223.
+(pdftex.def)             Requested size: 189.50464pt x 152.96878pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n443.png, id=811, 492.84125pt 
+x 384.43625pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n443.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n443.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n443.p
+ng  used on input line 1224.
+(pdftex.def)             Requested size: 197.133pt x 153.77177pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n523.png, id=812, 474.77374pt 
+x 381.425pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n523.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n523.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n523.p
+ng  used on input line 1225.
+(pdftex.def)             Requested size: 189.90613pt x 152.56729pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/n563.png, id=813, 487.8225pt x
+ 378.41376pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/n563.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/n563.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/n563.p
+ng  used on input line 1226.
+(pdftex.def)             Requested size: 195.12553pt x 151.36281pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j3.png, id=814, 489.83pt x 384
+.43625pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j3.png Graphic file (type
+ png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j3.png
+  used on input line 1232.
+(pdftex.def)             Requested size: 195.92853pt x 153.77177pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j83.png, id=815, 528.97626pt x
+ 384.43625pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j83.png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j83.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j83.pn
+g  used on input line 1233.
+(pdftex.def)             Requested size: 211.58675pt x 153.77177pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j123.png, id=816, 493.845pt x 
+379.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j123.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j123.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j123.p
+ng  used on input line 1234.
+(pdftex.def)             Requested size: 197.53448pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j243.png, id=817, 486.81876pt 
+x 379.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j243.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j243.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j243.p
+ng  used on input line 1235.
+(pdftex.def)             Requested size: 194.72404pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j363.png, id=818, 493.845pt x 
+381.425pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j363.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j363.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j363.p
+ng  used on input line 1236.
+(pdftex.def)             Requested size: 197.53448pt x 152.56729pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j443.png, id=819, 484.81125pt 
+x 379.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j443.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j443.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j443.p
+ng  used on input line 1237.
+(pdftex.def)             Requested size: 193.92105pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j523.png, id=820, 487.8225pt x
+ 380.42125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j523.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j523.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j523.p
+ng  used on input line 1238.
+(pdftex.def)             Requested size: 195.12553pt x 152.16579pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/j563.png, id=821, 483.8075pt x
+ 378.41376pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/j563.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/j563.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/j563.p
+ng  used on input line 1239.
+(pdftex.def)             Requested size: 193.51956pt x 151.36281pt.
+ [46]
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p3.png, id=830, 468.75125pt x 
+384.43625pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p3.png Graphic file (type
+ png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p3.png
+  used on input line 1245.
+(pdftex.def)             Requested size: 187.49716pt x 153.77177pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p83.png, id=831, 446.66875pt x
+ 379.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p83.png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p83.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p83.pn
+g  used on input line 1246.
+(pdftex.def)             Requested size: 178.66432pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p123.png, id=832, 454.69875pt 
+x 378.41376pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p123.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p123.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p123.p
+ng  used on input line 1247.
+(pdftex.def)             Requested size: 181.87627pt x 151.36281pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p243.png, id=833, 457.71pt x 3
+78.41376pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p243.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p243.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p243.p
+ng  used on input line 1248.
+(pdftex.def)             Requested size: 183.08075pt x 151.36281pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p363.png, id=834, 463.7325pt x
+ 377.41pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p363.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p363.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p363.p
+ng  used on input line 1249.
+(pdftex.def)             Requested size: 185.4897pt x 150.96132pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p443.png, id=835, 454.69875pt 
+x 379.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p443.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p443.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p443.p
+ng  used on input line 1250.
+(pdftex.def)             Requested size: 181.87627pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p523.png, id=836, 456.70625pt 
+x 378.41376pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p523.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p523.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p523.p
+ng  used on input line 1251.
+(pdftex.def)             Requested size: 182.67926pt x 151.36281pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/p563.png, id=837, 458.71375pt 
+x 376.40625pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/p563.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/p563.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/p563.p
+ng  used on input line 1252.
+(pdftex.def)             Requested size: 183.48224pt x 150.55983pt.
+
+[47pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1255 \end{figure}
+                    <../SImulacao_breakdown/Adaptacao_nova/explicito/n3.png> <.
+./SImulacao_breakdown/Adaptacao_nova/explicito/n83.png> <../SImulacao_breakdown
+/Adaptacao_nova/explicito/n123.png> <../SImulacao_breakdown/Adaptacao_nova/expl
+icito/n243.png> <../SImulacao_breakdown/Adaptacao_nova/explicito/n363.png> <../
+SImulacao_breakdown/Adaptacao_nova/explicito/n443.png> <../SImulacao_breakdown/
+Adaptacao_nova/explicito/n523.png> <../SImulacao_breakdown/Adaptacao_nova/expli
+cito/n563.png>]
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i3.png, id=850, 484.81125pt x 
+383.4325pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i3.png Graphic file (type
+ png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i3.png
+  used on input line 1258.
+(pdftex.def)             Requested size: 193.92105pt x 153.37029pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i83.png, id=851, 468.75125pt x
+ 381.425pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i83.png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i83.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i83.pn
+g  used on input line 1259.
+(pdftex.def)             Requested size: 187.49716pt x 152.56729pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i123.png, id=852, 474.77374pt 
+x 380.42125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i123.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i123.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i123.p
+ng  used on input line 1260.
+(pdftex.def)             Requested size: 189.90613pt x 152.16579pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i243.png, id=853, 467.7475pt x
+ 379.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i243.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i243.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i243.p
+ng  used on input line 1261.
+(pdftex.def)             Requested size: 187.09567pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i363.png, id=854, 465.74pt x 3
+79.4175pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i363.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i363.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i363.p
+ng  used on input line 1262.
+(pdftex.def)             Requested size: 186.2927pt x 151.7643pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i443.png, id=855, 462.72874pt 
+x 378.41376pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i443.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i443.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i443.p
+ng  used on input line 1263.
+(pdftex.def)             Requested size: 185.08821pt x 151.36281pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i523.png, id=856, 468.75125pt 
+x 380.42125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i523.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i523.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i523.p
+ng  used on input line 1264.
+(pdftex.def)             Requested size: 187.49716pt x 152.16579pt.
+<../SImulacao_breakdown/Adaptacao_nova/explicito/i563.png, id=857, 460.72125pt 
+x 381.425pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/explicito/i563.png Graphic file (ty
+pe png)
+<use ../SImulacao_breakdown/Adaptacao_nova/explicito/i563.png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/explicito/i563.p
+ng  used on input line 1265.
+(pdftex.def)             Requested size: 184.28523pt x 152.56729pt.
+ [48pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1268 \end{figure}
+                    <../SImulacao_breakdown/Adaptacao_nova/explicito/j3.png> <.
+./SImulacao_breakdown/Adaptacao_nova/explicito/j83.png> <../SImulacao_breakdown
+/Adaptacao_nova/explicito/j123.png> <../SImulacao_breakdown/Adaptacao_nova/expl
+icito/j243.png> <../SImulacao_breakdown/Adaptacao_nova/explicito/j363.png> <../
+SImulacao_breakdown/Adaptacao_nova/explicito/j443.png> <../SImulacao_breakdown/
+Adaptacao_nova/explicito/j523.png> <../SImulacao_breakdown/Adaptacao_nova/expli
+cito/j563.png>] [49pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.5.14}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1269  N
+         a Figura \ref{n3} vemos a densidade de plasma aumentando ao longo d...
+ <../SImulacao_breakdown/Adaptacao_nova/explicito/p3.png> <../SImulacao_breakdo
+wn/Adaptacao_nova/explicito/p83.png> <../SImulacao_breakdown/Adaptacao_nova/exp
+licito/p123.png> <../SImulacao_breakdown/Adaptacao_nova/explicito/p243.png> <..
+/SImulacao_breakdown/Adaptacao_nova/explicito/p363.png> <../SImulacao_breakdown
+/Adaptacao_nova/explicito/p443.png> <../SImulacao_breakdown/Adaptacao_nova/expl
+icito/p523.png> <../SImulacao_breakdown/Adaptacao_nova/explicito/p563.png>]
+[50pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1275 
+        <../SImulacao_breakdown/Adaptacao_nova/explicito/i3.png> <../SImulacao_
+breakdown/Adaptacao_nova/explicito/i83.png> <../SImulacao_breakdown/Adaptacao_n
+ova/explicito/i123.png> <../SImulacao_breakdown/Adaptacao_nova/explicito/i243.p
+ng> <../SImulacao_breakdown/Adaptacao_nova/explicito/i363.png> <../SImulacao_br
+eakdown/Adaptacao_nova/explicito/i443.png> <../SImulacao_breakdown/Adaptacao_no
+va/explicito/i523.png> <../SImulacao_breakdown/Adaptacao_nova/explicito/i563.pn
+g>] [51] [52] [53]
+<../SImulacao_breakdown/PDE/malha.png, id=946, 429.2838pt x 316.0608pt>
+File: ../SImulacao_breakdown/PDE/malha.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/malha.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/malha.png  used on input li
+ne 1458.
+(pdftex.def)             Requested size: 429.28275pt x 316.06003pt.
+ [54]
+<../SImulacao_breakdown/PDE/ntod1B6.png, id=961, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B6.png  used on input 
+line 1470.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod2B6.png, id=962, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B6.png  used on input 
+line 1471.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod3B6.png, id=963, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B6.png  used on input 
+line 1472.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod4B6.png, id=964, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B6.png  used on input 
+line 1473.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod1B6.png, id=965, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B6.png  used on inp
+ut line 1480.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod2B6.png, id=966, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B6.png  used on inp
+ut line 1481.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod3B6.png, id=967, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B6.png  used on inp
+ut line 1482.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod4B6.png, id=968, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B6.png  used on inp
+ut line 1483.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [55pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1486 \end{figure}
+                    <../SImulacao_breakdown/PDE/malha.png (PNG copy)>] [56pdfTe
+X warning (ext4): destination with the same identifier (name{figure.5.17}) has 
+been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1487 
+        <../SImulacao_breakdown/PDE/ntod1B6.png (PNG copy)> <../SImulacao_break
+down/PDE/ntod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B6.png (PNG c
+opy)> <../SImulacao_breakdown/PDE/ntod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B6.png, id=977, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B6.png  used on input
+ line 1490.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod2B6.png, id=978, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B6.png  used on input
+ line 1491.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod3B6.png, id=979, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B6.png  used on input
+ line 1492.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod4B6.png, id=980, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B6.png  used on input
+ line 1493.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [57pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1497 
+        <../SImulacao_breakdown/PDE/Jphitod1B6.png (PNG copy)> <../SImulacao_br
+eakdown/PDE/Jphitod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B6.p
+ng (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B6.png, id=985, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B6.png  used on input
+ line 1500.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod2B6.png, id=986, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B6.png  used on input
+ line 1501.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod3B6.png, id=987, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B6.png  used on input
+ line 1502.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod4B6.png, id=988, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B6.png  used on input
+ line 1503.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [58pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1507 P
+        odemos notar pelas figuras \ref{densidadeB}, \ref{densidadeCB}, \ref...
+ <../SImulacao_breakdown/PDE/petod1B6.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B6.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B6.png (PNG copy)>] [59pdfTeX warning (ext4
+): destination with the same identifier (name{figure.5.20}) has been already us
+ed, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1509 
+        <../SImulacao_breakdown/PDE/pitod1B6.png (PNG copy)> <../SImulacao_brea
+kdown/PDE/pitod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod3B6.png (PN
+G copy)> <../SImulacao_breakdown/PDE/pitod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/Campoeleext.png, id=1005, 429.10312pt x 316.18124pt
+>
+File: ../SImulacao_breakdown/PDE/Campoeleext.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Campoeleext.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Campoeleext.png  used on in
+put line 1516.
+(pdftex.def)             Requested size: 214.55103pt x 158.09023pt.
+<../SImulacao_breakdown/PDE/CampoMagext2.png, id=1006, 421.575pt x 316.0608pt>
+File: ../SImulacao_breakdown/PDE/CampoMagext2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/CampoMagext2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/CampoMagext2.png  used on i
+nput line 1517.
+(pdftex.def)             Requested size: 210.78697pt x 158.03001pt.
+<../SImulacao_breakdown/PDE/CampoMagext.png, id=1007, 429.10312pt x 316.18124pt
+>
+File: ../SImulacao_breakdown/PDE/CampoMagext.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/CampoMagext.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/CampoMagext.png  used on in
+put line 1523.
+(pdftex.def)             Requested size: 214.55103pt x 158.09023pt.
+<../SImulacao_breakdown/PDE/vinl1.png, id=1011, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/vinl1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/vinl1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/vinl1.png  used on input li
+ne 1532.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/vinv1.png, id=1012, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/vinv1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/vinv1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/vinv1.png  used on input li
+ne 1538.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [60pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+21}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1541 \end{figure}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{figure.5.22}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1541 \end{figure}
+                    <../SImulacao_breakdown/PDE/Campoeleext.png (PNG copy)> <..
+/SImulacao_breakdown/PDE/CampoMagext2.png (PNG copy)> <../SImulacao_breakdown/P
+DE/CampoMagext.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/vinvloss1.png, id=1018, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/vinvloss1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/vinvloss1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/vinvloss1.png  used on inpu
+t line 1544.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1544--1545
+ [][] 
+ []
+
+<../SImulacao_breakdown/PDE/ntod1B2.png, id=1026, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B2.png  used on input 
+line 1551.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod2B2.png, id=1027, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B2.png  used on input 
+line 1552.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod3B2.png, id=1028, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B2.png  used on input 
+line 1553.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod4B2.png, id=1029, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B2.png  used on input 
+line 1554.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+[61pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1558 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.5.24}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1558 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.5.25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1558 
+        <../SImulacao_breakdown/PDE/vinl1.png (PNG copy)> <../SImulacao_breakdo
+wn/PDE/vinv1.png (PNG copy)> <../SImulacao_breakdown/PDE/vinvloss1.png (PNG cop
+y)>]
+<../SImulacao_breakdown/PDE/Jphitod1B2.png, id=1034, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B2.png  used on inp
+ut line 1561.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod2B2.png, id=1035, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B2.png  used on inp
+ut line 1562.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod3B2.png, id=1036, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B2.png  used on inp
+ut line 1563.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod4B2.png, id=1037, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B2.png  used on inp
+ut line 1564.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [62pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+26}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1568 
+        <../SImulacao_breakdown/PDE/ntod1B2.png (PNG copy)> <../SImulacao_break
+down/PDE/ntod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B2.png (PNG c
+opy)> <../SImulacao_breakdown/PDE/ntod4B2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B2.png, id=1042, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B2.png  used on input
+ line 1571.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod2B2.png, id=1043, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B2.png  used on input
+ line 1572.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod3B2.png, id=1044, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B2.png  used on input
+ line 1573.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod4B2.png, id=1045, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B2.png  used on input
+ line 1574.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [63pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+27}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1578 
+        <../SImulacao_breakdown/PDE/Jphitod1B2.png (PNG copy)> <../SImulacao_br
+eakdown/PDE/Jphitod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B2.p
+ng (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod4B2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B2.png, id=1050, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B2.png  used on input
+ line 1581.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod2B2.png, id=1051, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B2.png  used on input
+ line 1582.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod3B2.png, id=1052, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B2.png  used on input
+ line 1583.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod4B2.png, id=1053, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B2.png  used on input
+ line 1584.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [64pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+28}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1588 \noindent
+                 Nestas simulaÃ§Ãµes, nota-se o mesmo comportamento das simu...
+ <../SImulacao_breakdown/PDE/petod1B2.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B2.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B2.png (PNG copy)>] [65pdfTeX warning (ext4
+): destination with the same identifier (name{figure.5.29}) has been already us
+ed, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1591 
+        <../SImulacao_breakdown/PDE/pitod1B2.png (PNG copy)> <../SImulacao_brea
+kdown/PDE/pitod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod3B2.png (PN
+G copy)> <../SImulacao_breakdown/PDE/pitod4B2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/ntod1B3.png, id=1074, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B3.png  used on input 
+line 1601.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod2B3.png, id=1075, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B3.png  used on input 
+line 1602.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod3B3.png, id=1076, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B3.png  used on input 
+line 1603.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod4B3.png, id=1077, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B3.png  used on input 
+line 1604.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1601--1605
+ [] 
+ []
+
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1601--1605
+ [] 
+ []
+
+[66]
+<../SImulacao_breakdown/PDE/Jphitod1B3.png, id=1083, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B3.png  used on inp
+ut line 1611.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod2B3.png, id=1084, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B3.png  used on inp
+ut line 1612.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod3B3.png, id=1085, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B3.png  used on inp
+ut line 1613.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod4B3.png, id=1086, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B3.png  used on inp
+ut line 1614.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [67pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+30}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1618 
+        <../SImulacao_breakdown/PDE/ntod1B3.png (PNG copy)> <../SImulacao_break
+down/PDE/ntod2B3.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B3.png (PNG c
+opy)> <../SImulacao_breakdown/PDE/ntod4B3.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B3.png, id=1091, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B3.png  used on input
+ line 1621.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod2B3.png, id=1092, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B3.png  used on input
+ line 1622.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod3B3.png, id=1093, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B3.png  used on input
+ line 1623.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod4B3.png, id=1094, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B3.png  used on input
+ line 1624.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [68pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+31}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1628 
+        <../SImulacao_breakdown/PDE/Jphitod1B3.png (PNG copy)> <../SImulacao_br
+eakdown/PDE/Jphitod2B3.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B3.p
+ng (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod4B3.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B3.png, id=1099, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B3.png  used on input
+ line 1631.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod2B3.png, id=1100, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B3.png  used on input
+ line 1632.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod3B3.png, id=1101, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B3.png  used on input
+ line 1633.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod4B3.png, id=1102, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B3.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B3.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B3.png  used on input
+ line 1634.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [69pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+32}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1638 \noindent
+                 Com $D=0.0002$\ $m^2s^{-1}$, temos os resultados apresentad...
+ <../SImulacao_breakdown/PDE/petod1B3.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B3.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B3.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B3.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/ntod1B1.png, id=1111, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B1.png  used on input 
+line 1641.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod2B1.png, id=1112, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B1.png  used on input 
+line 1642.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod3B1.png, id=1113, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B1.png  used on input 
+line 1643.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod4B1.png, id=1114, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B1.png  used on input 
+line 1644.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1641--1645
+ [] 
+ []
+
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1641--1645
+ [] 
+ []
+
+[70pdfTeX warning (ext4): destination with the same identifier (name{figure.5.3
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1648 
+        <../SImulacao_breakdown/PDE/pitod1B3.png (PNG copy)> <../SImulacao_brea
+kdown/PDE/pitod2B3.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod3B3.png (PN
+G copy)> <../SImulacao_breakdown/PDE/pitod4B3.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/Jphitod1B1.png, id=1119, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B1.png  used on inp
+ut line 1651.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod2B1.png, id=1120, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B1.png  used on inp
+ut line 1652.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod3B1.png, id=1121, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B1.png  used on inp
+ut line 1653.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod4B1.png, id=1122, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B1.png  used on inp
+ut line 1654.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [71pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+34}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1658 
+        <../SImulacao_breakdown/PDE/ntod1B1.png (PNG copy)> <../SImulacao_break
+down/PDE/ntod2B1.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B1.png (PNG c
+opy)> <../SImulacao_breakdown/PDE/ntod4B1.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B1.png, id=1127, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B1.png  used on input
+ line 1661.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod2B1.png, id=1128, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B1.png  used on input
+ line 1662.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod3B1.png, id=1129, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B1.png  used on input
+ line 1663.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod4B1.png, id=1130, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B1.png  used on input
+ line 1664.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [72pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+35}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1668 
+        <../SImulacao_breakdown/PDE/Jphitod1B1.png (PNG copy)> <../SImulacao_br
+eakdown/PDE/Jphitod2B1.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B1.p
+ng (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod4B1.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B1.png, id=1136, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B1.png  used on input
+ line 1671.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod2B1.png, id=1137, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B1.png  used on input
+ line 1672.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod3B1.png, id=1138, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B1.png  used on input
+ line 1673.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod4B1.png, id=1139, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B1.png  used on input
+ line 1674.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [73pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+36}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1678 \noindent
+                 Nestas simulaÃ§Ãµes, nota-se um aumento na densidade numÃ©r...
+ <../SImulacao_breakdown/PDE/petod1B1.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B1.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B1.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B1.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/ntod1B7.png, id=1151, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B7.png  used on input 
+line 1681.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod2B7.png, id=1152, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B7.png  used on input 
+line 1682.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod3B7.png, id=1153, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B7.png  used on input 
+line 1683.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/ntod4B7.png, id=1154, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B7.png  used on input 
+line 1684.
+(pdftex.def)             Requested size: 455.54079pt x 150.56212pt.
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1681--1685
+ [] 
+ []
+
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1681--1685
+ [] 
+ []
+
+
+Overfull \hbox (0.54079pt too wide) in paragraph at lines 1681--1685
+ [] 
+ []
+
+
+Overfull \hbox (4.35565pt too wide) in paragraph at lines 1678--1687
+\T1/ptm/m/n/12 Nestas simulações, nota-se um aumento na densidade nu-mé-rica, F
+igura []30[], densidade de corrente
+ []
+
+[74pdfTeX warning (ext4): destination with the same identifier (name{figure.5.3
+7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1687 \end{figure}
+                    <../SImulacao_breakdown/PDE/pitod1B1.png (PNG copy)> <../SI
+mulacao_breakdown/PDE/pitod2B1.png (PNG copy)> <../SImulacao_breakdown/PDE/pito
+d3B1.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod4B1.png (PNG copy)>]
+[75]
+<../SImulacao_breakdown/PDE/Jphitod1B7.png, id=1163, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B7.png  used on inp
+ut line 1692.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod2B7.png, id=1164, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B7.png  used on inp
+ut line 1693.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod3B7.png, id=1165, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B7.png  used on inp
+ut line 1694.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/Jphitod4B7.png, id=1166, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B7.png  used on inp
+ut line 1695.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [76pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+38}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1699 
+        <../SImulacao_breakdown/PDE/ntod1B7.png (PNG copy)> <../SImulacao_break
+down/PDE/ntod2B7.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B7.png (PNG c
+opy)> <../SImulacao_breakdown/PDE/ntod4B7.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B7.png, id=1171, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B7.png  used on input
+ line 1702.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod2B7.png, id=1172, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B7.png  used on input
+ line 1703.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod3B7.png, id=1173, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B7.png  used on input
+ line 1704.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/petod4B7.png, id=1174, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B7.png  used on input
+ line 1705.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [77pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+39}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1709 
+        <../SImulacao_breakdown/PDE/Jphitod1B7.png (PNG copy)> <../SImulacao_br
+eakdown/PDE/Jphitod2B7.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B7.p
+ng (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod4B7.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B7.png, id=1179, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B7.png  used on input
+ line 1712.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod2B7.png, id=1180, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B7.png  used on input
+ line 1713.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod3B7.png, id=1181, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B7.png  used on input
+ line 1714.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+<../SImulacao_breakdown/PDE/pitod4B7.png, id=1182, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B7.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B7.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B7.png  used on input
+ line 1715.
+(pdftex.def)             Requested size: 451.6864pt x 150.56212pt.
+ [78pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+40}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1719 \noindent
+                 Notando que, o valor mÃ¡ximo da densidade de plasma, $n$, a...
+ <../SImulacao_breakdown/PDE/petod1B7.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B7.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B7.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B7.png (PNG copy)>] [79pdfTeX warning (ext4
+): destination with the same identifier (name{figure.5.41}) has been already us
+ed, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1722 \chapter
+               {ConclusÃ£o} <../SImulacao_breakdown/PDE/pitod1B7.png (PNG copy)
+> <../SImulacao_breakdown/PDE/pitod2B7.png (PNG copy)> <../SImulacao_breakdown/
+PDE/pitod3B7.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod4B7.png (PNG copy
+)>] [80] [81
+
+] (TCC_2.bbl [82]
+bibitemlist
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 51.
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 3428) in paragraph at lines 74--79
+[]\T1/ptm/m/n/12 A. L. Peratt.  \T1/ptm/m/it/12 Advances in Numerical Modeling 
+of Astrophysical and Space
+ []
+
+[83
+
+]) [84]
+<pseudotoridal1.png, id=1250, 558.085pt x 504.88625pt>
+File: pseudotoridal1.png Graphic file (type png)
+<use pseudotoridal1.png>
+Package pdftex.def Info: pseudotoridal1.png  used on input line 1763.
+(pdftex.def)             Requested size: 390.65685pt x 353.41795pt.
+<pseudotoridal2.png, id=1251, 865.2325pt x 557.08125pt>
+File: pseudotoridal2.png Graphic file (type png)
+<use pseudotoridal2.png>
+Package pdftex.def Info: pseudotoridal2.png  used on input line 1769.
+(pdftex.def)             Requested size: 389.35103pt x 250.68425pt.
+ [85
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.A.42})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1773 
+        <./pseudotoridal1.png>] [86pdfTeX warning (ext4): destination with the 
+same identifier (name{figure.A.43}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1805 \end{equation}
+                      <./pseudotoridal2.png>] [87]
+Overfull \hbox (2.91704pt too wide) detected at line 1874
+\OML/ztmcm/m/it/12 h[] \OT1/ztmcm/m/n/12 = [] = \OMS/ztmcm/m/n/12 j\OML/ztmcm/m
+/it/12 r\OMS/ztmcm/m/n/12 j\OML/ztmcm/m/it/12 ;
+ []
+
+[88] [89]
+Overfull \hbox (5.6859pt too wide) detected at line 1990
+\OMS/lmsy/b/n/12 r \OMS/ztmcm/m/n/12  \OML/lmm/b/it/12 u \OT1/ztmcm/m/n/12 = [
+] [] [] + [] [] [] + [] [] []\OML/ztmcm/m/it/12 ;
+ []
+
+[90] [91]
+Overfull \hbox (8.5748pt too wide) detected at line 2044
+\OMS/ztmcm/m/n/12  \OML/ztmcm/m/it/12 D[] [] [] \OT1/ztmcm/m/n/12 = \OML/ztmcm/
+m/it/12 n\OT1/ztmcm/m/n/12 (\OML/ztmcm/m/it/12 r\OT1/ztmcm/m/n/12 )
+ []
+
+<exeplo.png, id=1343, 940.51375pt x 298.11375pt>
+File: exeplo.png Graphic file (type png)
+<use exeplo.png>
+Package pdftex.def Info: exeplo.png  used on input line 2066.
+(pdftex.def)             Requested size: 376.19884pt x 119.24338pt.
+<exemplo1.png, id=1346, 429.10312pt x 316.18124pt>
+File: exemplo1.png Graphic file (type png)
+<use exemplo1.png>
+Package pdftex.def Info: exemplo1.png  used on input line 2072.
+(pdftex.def)             Requested size: 214.55103pt x 158.09023pt.
+[92]
+<exemplo2.png, id=1353, 956.57375pt x 300.12125pt>
+File: exemplo2.png Graphic file (type png)
+<use exemplo2.png>
+Package pdftex.def Info: exemplo2.png  used on input line 2080.
+(pdftex.def)             Requested size: 382.62271pt x 120.04637pt.
+<exeplo2.png, id=1356, 421.575pt x 316.18124pt>
+File: exeplo2.png Graphic file (type png)
+<use exeplo2.png>
+Package pdftex.def Info: exeplo2.png  used on input line 2086.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+ [93pdfTeX warning (ext4): destination with the same identifier (name{figure.A.
+44}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2089 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.A.45}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2089 
+       pdfTeX warning (ext4): destination with the same identifier (name{figure
+.A.46}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2089 
+        <./exeplo.png> <./exemplo1.png (PNG copy)> <./exemplo2.png>] [94pdfTeX 
+warning (ext4): destination with the same identifier (name{figure.A.47}) has be
+en already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2091 \chapter
+               {Tabela de unidades Ãºteis} <./exeplo2.png (PNG copy)>] [95
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.B.2}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2138 \chapter
+               {Valor mÃ©dio}] [96
+
+]
+Overfull \hbox (16.82306pt too wide) in paragraph at lines 2148--2149
+\T1/ptm/m/n/12 O modelo de Townsend assume que os campos elétricos acionados ex
+ternamente são predominantes
+ []
+
+[97
+
+] [98]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 2184.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 2184.
+
+ (/home/kevi/.miktex/texmfs/install/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 10.20007pt on input line 2184.
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 2184.
+
+(../SImulacao_breakdown/PDE/breakdown_nova.m
+LaTeX Font Info:    Try loading font information for TS1+fvm on input line 7.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/bera/ts1fvm.fd
+File: ts1fvm.fd 2004/09/07 scalable font definitions for TS1/fvm.
+)
+LaTeX Font Info:    Font shape `TS1/fvm/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+ [99
+
+] [100]
+[101] [102] [103]) (/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/Simulacao_n_J.m [104] [105] [106] [107] [108])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/d01.m) [109]
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/c01.m)
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/a01.m)
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/inifuncadapt01.m [110])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/s03.m [111])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/gera_Anim.m [112])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/plotasol.m [113])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/campo2.m [114])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/resistivity_nova.m)
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+)
+(../SImulacao_breakdown/PDE/RegulaCampo.m [115])
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/utf8.def
+File: utf8.def 2018/10/05 v1.2f UTF-8 support for inputenc
+) [116] [117
+
+]
+[118]
+<deconposisao.png, id=2348, 561.09625pt x 307.1475pt>
+File: deconposisao.png Graphic file (type png)
+<use deconposisao.png>
+Package pdftex.def Info: deconposisao.png  used on input line 2352.
+(pdftex.def)             Requested size: 336.66034pt x 184.28992pt.
+ [119pdfTeX warning (ext4): destination with the same identifier (name{figure.F
+.48}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2370 
+        <./deconposisao.png>] [120]
+Overfull \hbox (3.32408pt too wide) in paragraph at lines 2451--2453
+\T1/ptm/m/n/12 Esta equação mostra que em um sistema de co-or-de-na-das movendo
+-se com a velocidade constante
+ []
+
+[121]
+Overfull \hbox (4.10909pt too wide) in paragraph at lines 2459--2461
+\T1/ptm/m/n/12 Assim, neste quadro de referência, o componente de campo elétric
+o $\OML/ztmcm/m/it/12 E[]$ \T1/ptm/m/n/12 é transformado, enquanto
+ []
+
+
+AED: lastpage setting LastPage
+[122]
+\tf@toc=\write6
+\openout6 = `TCC_2.toc'.
+
+\tf@lof=\write7
+\openout7 = `TCC_2.lof'.
+
+\tf@lot=\write8
+\openout8 = `TCC_2.lot'.
+
+\tf@lol=\write9
+\openout9 = `TCC_2.lol'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2474.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2474.
+ (TCC_2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2474.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2474.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2474.
+ ) 
+Here is how much of TeX's memory you used:
+ 24546 strings out of 494864
+ 404022 string characters out of 3178363
+ 946947 words of memory out of 3000000
+ 26110 multiletter control sequences out of 15000+200000
+ 89172 words of font info for 119 fonts, out of 3000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 56i,13n,120p,1578b,2353s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/kevi/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}{/home/kevi/.m
+iktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/home/kevi/.miktex/texmfs/in
+stall/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/kevi/.miktex/texmfs/install/fonts
+/enc/dvips/lm/lm-mathit.enc}{/home/kevi/.miktex/texmfs/install/fonts/enc/dvips/
+lm/lm-rm.enc}</home/kevi/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/
+cmex10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></home/kevi/.miktex/texmfs/install/fonts/type1/bera/fvmr8a.pfb></home/kevi/
+.miktex/texmfs/install/fonts/type1/public/lm/lmbsy10.pfb></home/kevi/.miktex/te
+xmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/kevi/.miktex/texmfs/instal
+l/fonts/type1/public/lm/lmmib10.pfb></home/kevi/.miktex/texmfs/install/fonts/ty
+pe1/public/lm/lmss12.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/
+lm/lmss17.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmssbo10
+.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb></ho
+me/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmsso17.pfb></home/kevi/.m
+iktex/texmfs/install/fonts/type1/public/lm/lmtt12.pfb></home/kevi/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></home/kevi/.miktex/te
+xmfs/install/fonts/type1/public/rsfs/rsfs10.pfb></home/kevi/.miktex/texmfs/inst
+all/fonts/type1/urw/symbol/usyr.pfb></home/kevi/.miktex/texmfs/install/fonts/ty
+pe1/urw/symbol/usyr.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/urw/time
+s/utmb8a.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pf
+b></home/kevi/.miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TCC_2.pdf (123 pages, 12103007 bytes).
+PDF statistics:
+ 2910 PDF objects out of 2984 (max. 8388607)
+ 1359 named destinations out of 1440 (max. 500000)
+ 1130 words of extra memory for PDF output out of 10000 (max. 10000000)
+

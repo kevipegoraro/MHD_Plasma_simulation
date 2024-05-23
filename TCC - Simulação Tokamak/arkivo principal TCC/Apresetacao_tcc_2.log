@@ -1,0 +1,2518 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2019.4.24)  2 DEC 2019 11:53
+entering extended mode
+**./Apresetacao_tcc_2.tex
+(Apresetacao_tcc_2.tex
+LaTeX2e <2018-12-01>
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamer.cls
+Document Class: beamer 2019/07/23 v3.56 A class for typesetting presentations
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasemodes.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box27
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+\beamer@decode@box=\box28
+)
+\beamer@commentbox=\box29
+\beamer@modecount=\count85
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box30
+\beamer@animcurrent=\box31
+\beamer@animshowbox=\box32
+\beamer@sectionbox=\box33
+\beamer@logobox=\box34
+\beamer@linebox=\box35
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseoptions.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lis
+ts.tex))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box36
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count112
+ (/home/kevi/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.de
+f
+File: pgfsys-pdftex.def 2019/02/02 v3.1.1 (3.1.1)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pd
+f.def
+File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
+)))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.c
+ode.tex
+File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.c
+ode.tex
+File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)) (/home/kevi/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count115
+\pgfmath@box=\box37
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.t
+ex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.
+code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigon
+ometric.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random
+.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.compar
+ison.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.c
+ode.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.
+code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.c
+ode.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.intege
+rarithmetics.code.tex)))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count116
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.cod
+e.tex
+File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstr
+uct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.
+code.tex
+File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.cod
+e.tex
+File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count117
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicsta
+te.code.tex
+File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgflinewidth=\dimen157
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransforma
+tions.code.tex
+File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code
+.tex
+File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.co
+de.tex
+File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathproces
+sing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.cod
+e.tex
+File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfarrowsep=\dimen161
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code
+.tex
+File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count118
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code
+.tex
+File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.c
+ode.tex
+File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfexternal@startupbox=\box41
+))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.cod
+e.tex
+File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparen
+cy.code.tex
+File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.c
+ode.tex
+File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.t
+ex
+File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) (/home/kevi/.miktex/texmfs/install/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count119
+\XC@countmixins=\count120
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count123
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/00miktex/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count124
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count125
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count126
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaserequires.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasecompatibility.sty
+) (/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasefont.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/filehook/filehook.sty
+Package: filehook 2019/08/19 v0.5e Hooks for input files
+)))
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasetranslator.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasemisc.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count129
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count130
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasetitle.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count131
+\c@part=\count132
+\c@section=\count133
+\c@subsection=\count134
+\c@subsubsection=\count135
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box42
+\beamer@frametitlebox=\box43
+\beamer@zoombox=\box44
+\beamer@zoomcount=\count136
+\beamer@zoomframecount=\count137
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count138
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count139
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box45
+\beamer@autobreakcount=\count140
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseframecomponents.s
+ty
+\beamer@footins=\box46
+) (/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasecolor.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box47
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasetoc.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box48
+\bmb@colorbox=\box49
+\bmb@boxshadow=\box50
+\bmb@boxshadowball=\box51
+\bmb@boxshadowballlarge=\box52
+\bmb@temp=\dimen170
+\bmb@dima=\dimen171
+\bmb@dimb=\dimen172
+\bmb@prevheight=\dimen173
+)
+\beamer@blockheadheight=\dimen174
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbaselocalstructure.st
+y (/home/kevi/.miktex/texmfs/install/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count141
+\c@table=\count142
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen175
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasetheorems.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen176
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count143
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count144
+\leftroot@=\count145
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count146
+\DOTSCASE@=\count147
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count148
+\c@MaxMatrixCols=\count149
+\dotsspace@=\muskip11
+\c@parentequation=\count150
+\dspbrk@lvl=\count151
+\tag@help=\toks33
+\row@=\count152
+\column@=\count153
+\maxfields@=\count154
+\andhelp@=\toks34
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count155
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerbasethemes.sty))
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerthemedefault.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerfontthemedefault.sty)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemedefault.sty
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen185
+\beamer@dimb=\dimen186
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerouterthemedefault.sty
+))) (/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerthemeMadrid.sty
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemewhale.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemeorchid.sty)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerinnerthemerounded.sty
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamerouterthemeinfolines.s
+ty)) (/home/kevi/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/kevi/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count156
+\U@D=\dimen187
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+LaTeX Info: Redefining \textlatin on input line 2003.
+\bbl@dirlevel=\count157
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Portuguese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 55.
+
+\l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (/home/kevi/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen188
+\captionmargin@=\dimen189
+\captionwidth=\dimen190
+\caption@tempdima=\dimen191
+\caption@indent=\dimen192
+\caption@parindent=\dimen193
+\caption@hangindent=\dimen194
+)
+\c@caption@flags=\count158
+\c@ContinuedFloat=\count159
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count160
+\c@subtable=\count161
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count162
+\float@exts=\toks45
+\float@box=\box55
+\@float@everytoks=\toks46
+\@floatcapt=\box56
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen195
+\lightrulewidth=\dimen196
+\cmidrulewidth=\dimen197
+\belowrulesep=\dimen198
+\belowbottomsep=\dimen199
+\aboverulesep=\dimen256
+\abovetopsep=\dimen257
+\cmidrulesep=\dimen258
+\cmidrulekern=\dimen259
+\defaultaddspace=\dimen260
+\@cmidla=\count163
+\@cmidlb=\count164
+\@aboverulesep=\dimen261
+\@belowrulesep=\dimen262
+\@thisruleclass=\count165
+\@lastruleclass=\count166
+\@thisrulewidth=\dimen263
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count167
+\mult@box=\box57
+\multicol@leftmargin=\dimen264
+\c@unbalance=\count168
+\c@collectmore=\count169
+\doublecol@number=\count170
+\multicoltolerance=\count171
+\multicolpretolerance=\count172
+\full@width=\dimen265
+\page@free=\dimen266
+\premulticols=\dimen267
+\postmulticols=\dimen268
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen269
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@gfirstbox=\box62
+\mult@firstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\c@columnbadness=\count173
+\c@finalcolumnbadness=\count174
+\last@try=\dimen270
+\multicolovershoot=\dimen271
+\multicolundershoot=\dimen272
+\mult@nat@firstbox=\box81
+\colbreak@box=\box82
+\mc@col@check@num=\count175
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/esvect/esvect.sty
+Package: esvect 
+\symesvector=\mathgroup8
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2018/12/29 v5.0 Nomenclature package
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
+)
+\XKV@depth=\count176
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\nomlabelwidth=\dimen273
+\nom@tempdim=\dimen274
+\nomitemsep=\skip59
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/ztmcm/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/ztmcm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/ztmcm/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/ztmcm/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ztmcm/m/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ztmcm/m/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/ztmcm/m/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/ztmcm/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/ptm/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/ptm/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/ptm/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ptm/m/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+(/home/kevi/.miktex/texmfs/install/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/12/21 v0.69 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pstricks.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count177
+\pstFP@xia=\count178
+\pstFP@xib=\count179
+\pstFP@xfa=\count180
+\pstFP@xfb=\count181
+\pstFP@rega=\count182
+\pstFP@regb=\count183
+\pstFP@regs=\count184
+\pstFP@times=\count185
+)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks49
+\pgfutil@tempdima=\dimen275
+\pgfutil@tempdimb=\dimen276
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lis
+ts.tex))
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex)
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+(/home/kevi/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen277
+\pgffor@skip=\dimen278
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+)
+\psLoopIndex=\count186
+
+`PSTricks' v2.94  <2019/01/07> (tvz,hv)
+\pst@dima=\dimen279
+\pst@dimb=\dimen280
+\pst@dimc=\dimen281
+\pst@dimd=\dimen282
+\pst@dimg=\dimen283
+\pst@dimh=\dimen284
+\pst@dimm=\dimen285
+\pst@dimn=\dimen286
+\pst@dimo=\dimen287
+\pst@dimp=\dimen288
+\pst@hbox=\box83
+\pst@ibox=\box84
+\pst@boxg=\box85
+\pst@cnta=\count187
+\pst@cntb=\count188
+\pst@cntc=\count189
+\pst@cntd=\count190
+\pst@cntg=\count191
+\pst@cnth=\count192
+\pst@cntm=\count193
+\pst@cntn=\count194
+\pst@cnto=\count195
+\pst@cntp=\count196
+\@zero=\count197
+\pst@toks=\toks52
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen289
+\psxunit=\dimen290
+\psyunit=\dimen291
+\pst@C@@rType=\count198
+\pslinewidth=\dimen292
+\psk@startLW=\dimen293
+\psk@endLW=\dimen294
+\pst@customdefs=\toks53
+\pslinearc=\dimen295
+\pst@symbolStep=\dimen296
+\pst@symbolWidth=\dimen297
+\pst@symbolLinewidth=\dimen298
+\everypsbox=\toks54
+\psframesep=\dimen299
+\pslabelsep=\dimen300
+\sh@wgridXunit=\dimen301
+\sh@wgridYunit=\dimen302
+\pst@shift=\dimen303
+)
+File: pstricks.tex 2019/01/07 v2.94 `PSTricks' (tvz,hv)
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2019/01/07 v2.94 `PST-fp' (hv)
+)
+\sympureletters=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 27.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup10
+\symboldletters=\mathgroup11
+\symboldsymbols=\mathgroup12
+\symboldpureletters=\mathgroup13
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count199
+\calc@Bcount=\count266
+\calc@Adimen=\dimen304
+\calc@Bdimen=\dimen305
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count267
+\calc@Cskip=\skip62
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/abntex2/abntex2abrev.sty)
+(/home/kevi/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\bibindent=\skip63
+\minimumbiblabelwidth=\skip64
+\ABCIauxlen=\skip65
+\c@ABCIaux=\count268
+\c@ABCImax=\count269
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip66
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks55
+)
+(Apresetacao_tcc_2.aux)
+\openout1 = `Apresetacao_tcc_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 33.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)<<ot1.cmap>>
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 433.34402pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=433.34402pt
+* \textheight=227.62207pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/home/kevi/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen306
+\scratchbox=\box86
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen307
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks57
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box87
+Package hyperref Info: Link coloring OFF on input line 33.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/home/kevi/.miktex/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count276
+)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
+
+(Apresetacao_tcc_2.out) (Apresetacao_tcc_2.out)
+\@outlinefile=\write5
+\openout5 = `Apresetacao_tcc_2.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 33.
+\symnumbers=\mathgroup14
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 33.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/lmss/m/it on input line 3
+3.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/lmss/m/it on input line 
+33.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 33.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 33.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 33.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 33.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmr/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 33.
+
+LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `norma
+l'
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/lmss/bx/it on input line
+ 33.
+LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `bold'
+
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/lmss/bx/it on input line
+ 33.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator-basic-dictio
+nary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator-bibliography
+-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator-environment-
+dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator-months-dicti
+onary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator-numbers-dict
+ionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/home/kevi/.miktex/texmfs/install/tex/latex/translator/translator-theorem-dict
+ionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (Apresetacao_tcc_2.nav)
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 38.
+
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+{/home/kevi/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2
+
+] [3
+
+]
+(Apresetacao_tcc_2.toc) [4
+
+]
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 102.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)<<oml.cmap>>
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 102
+.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)<<oms.cmap>>
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 102
+.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 102.
+<<omx.cmap>>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 102.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 102.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 102.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 102.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 102.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 102.
+LaTeX Font Info:    Try loading font information for U+esvect on input line 102
+.
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/esvect/uesvect.fd
+File: uesvect.fd 
+)
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 102.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 102.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 102.
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 102.
+
+
+(/home/kevi/.miktex/texmfs/install/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 102
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <8> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 102
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 102
+.
+<faixaplasma.png, id=221, 803.0pt x 803.0pt>
+File: faixaplasma.png Graphic file (type png)
+<use faixaplasma.png>
+Package pdftex.def Info: faixaplasma.png  used on input line 102.
+(pdftex.def)             Requested size: 156.00337pt x 156.00237pt.
+ [5
+
+ <./faixaplasma.png>] [6
+
+]
+<fusaoimage.png, id=285, 346.896pt x 250.0542pt>
+File: fusaoimage.png Graphic file (type png)
+<use fusaoimage.png>
+Package pdftex.def Info: fusaoimage.png  used on input line 133.
+(pdftex.def)             Requested size: 156.00337pt x 112.45084pt.
+ [7
+
+ <./fusaoimage.png>]
+<tokamak.jpeg, id=313, 872.25874pt x 1162.3425pt>
+File: tokamak.jpeg Graphic file (type jpg)
+<use tokamak.jpeg>
+Package pdftex.def Info: tokamak.jpeg  used on input line 156.
+(pdftex.def)             Requested size: 131.08801pt x 174.68083pt.
+
+Overfull \vbox (0.6819pt too high) detected at line 156
+ []
+
+[8
+
+ <./tokamak.jpeg>]
+<tokamak12.png, id=341, 961.5925pt x 605.26125pt>
+File: tokamak12.png Graphic file (type png)
+<use tokamak12.png>
+Package pdftex.def Info: tokamak12.png  used on input line 166.
+(pdftex.def)             Requested size: 281.67096pt x 177.29448pt.
+ [9
+
+ <./tokamak12.png>]
+<avalanche.png, id=370, 629.35126pt x 401.5pt>
+File: avalanche.png Graphic file (type png)
+<use avalanche.png>
+Package pdftex.def Info: avalanche.png  used on input line 185.
+(pdftex.def)             Requested size: 164.57507pt x 104.98792pt.
+ [10
+
+ <./avalanche.png>]
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 210
+.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 210.
+
+
+LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 210.
+
+[11
+
+] [12
+
+] [13
+
+] [14
+
+]
+Overfull \hbox (8.43828pt too wide) detected at line 281
+[][][]\OT1/lmss/m/n/10.95 (\OT1/lmss/m/sl/10.95 n[]\OT1/lmss/m/n/10.95 (\OT1/lm
+ss/bx/sl/10.95 r\OML/lmm/m/it/10.95 ; \OT1/lmss/m/sl/10.95 t\OT1/lmss/m/n/10.95
+ ) \OML/lmm/m/it/10.95 <  >[]\OT1/lmss/m/n/10.95 ) + \OMS/lmsy/b/n/10.95 r \OM
+S/lmsy/m/n/10.95  \OT1/lmss/m/n/10.95 (\OT1/lmss/m/sl/10.95 n[]\OT1/lmss/m/n/1
+0.95 (\OT1/lmss/bx/sl/10.95 r\OML/lmm/m/it/10.95 ; \OT1/lmss/m/sl/10.95 t\OT1/l
+mss/m/n/10.95 ) \OML/lmm/m/it/10.95 < \OT1/lmss/bx/sl/10.95 v \OML/lmm/m/it/10
+.95 >[]\OT1/lmss/m/n/10.95 ) \OMS/lmsy/m/n/10.95   \OT1/lmss/m/sl/10.95 n[]\OT1
+/lmss/m/n/10.95 (\OT1/lmss/bx/sl/10.95 r\OML/lmm/m/it/10.95 ; \OT1/lmss/m/sl/10
+.95 t\OT1/lmss/m/n/10.95 ) \OML/lmm/m/it/10.95 < \OT1/lmss/bx/sl/10.95 a \OMS/l
+msy/m/n/10.95  \OMS/lmsy/b/n/10.95 r[]\OML/lmm/m/it/10.95  >[]\OT1/lmss/m/n/1
+0.95 = [[](\OT1/lmss/m/sl/10.95 n[]\OT1/lmss/m/n/10.95 (\OT1/lmss/bx/sl/10.95 r
+\OML/lmm/m/it/10.95 ; \OT1/lmss/m/sl/10.95 t\OT1/lmss/m/n/10.95 ) \OML/lmm/m/it
+/10.95 <  >[]\OT1/lmss/m/n/10.95 )]\OML/lmm/m/it/10.95 :
+ []
+
+[15
+
+] [16
+
+]
+
+Package hyperref Warning: Suppressing empty link on input line 307.
+
+[17
+
+] [18
+
+] [19
+
+]
+<bob2.png, id=671, 489.83pt x 542.025pt>
+File: bob2.png Graphic file (type png)
+<use bob2.png>
+Package pdftex.def Info: bob2.png  used on input line 361.
+(pdftex.def)             Requested size: 160.33516pt x 177.41316pt.
+ [20
+
+ <./bob2.png>] [21
+
+] [22
+
+]
+<campo001-2.png, id=755, 1028.34187pt x 495.35063pt>
+File: campo001-2.png Graphic file (type png)
+<use campo001-2.png>
+Package pdftex.def Info: campo001-2.png  used on input line 397.
+(pdftex.def)             Requested size: 308.50494pt x 148.60634pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 397.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.4> on input line 397.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 397.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 397.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 397.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7.4> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 397.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 397
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <7.4> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 397
+.
+ [23
+
+ <./campo001-2.png (PNG copy)>]
+<campo002-2.png, id=782, 1028.34187pt x 495.35063pt>
+File: campo002-2.png Graphic file (type png)
+<use campo002-2.png>
+Package pdftex.def Info: campo002-2.png  used on input line 410.
+(pdftex.def)             Requested size: 308.50494pt x 148.60634pt.
+
+[24
+
+ <./campo002-2.png (PNG copy)>] [25
+
+] [26
+
+] [27
+
+] [28
+
+] [29
+
+]
+<pseudotoridal1.png, id=943, 558.085pt x 504.88625pt>
+File: pseudotoridal1.png Graphic file (type png)
+<use pseudotoridal1.png>
+Package pdftex.def Info: pseudotoridal1.png  used on input line 522.
+(pdftex.def)             Requested size: 175.50194pt x 158.77036pt.
+<pseudotoridal2.png, id=944, 865.2325pt x 557.08125pt>
+File: pseudotoridal2.png Graphic file (type png)
+<use pseudotoridal2.png>
+Package pdftex.def Info: pseudotoridal2.png  used on input line 522.
+(pdftex.def)             Requested size: 175.50194pt x 112.99535pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 522.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 522.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 522.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 522.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 522.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 522.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 522.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 522.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 522.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 522
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <7> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 522
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <5> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 522
+.
+ [30
+
+ <./pseudotoridal1.png> <./pseudotoridal2.png>] [31
+
+] [32
+
+] [33
+
+]
+<../SImulacao_breakdown/PDE/sB.png, id=1058, 421.575pt x 316.18124pt>
+File: ../SImulacao_breakdown/PDE/sB.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/sB.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/sB.png  used on input line 
+594.
+(pdftex.def)             Requested size: 126.47346pt x 94.8551pt.
+ [34
+
+ <../SImulacao_breakdown/PDE/sB.png (PNG copy)>] [35
+
+]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,3).png, id=1114, 903.375pt x 30
+1.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,3).png Graphic file (type 
+png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,3).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,3).png 
+ used on input line 612.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,3).png, id=1115, 903.375pt x 30
+1.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,3).png Graphic file (type 
+png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,3).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,3).png 
+ used on input line 612.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 612
+ []
+
+[36
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,3).png (PNG copy)> <../SImulac
+ao_breakdown/Adaptacao_nova/pion(:,:,3).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,83).png, id=1143, 903.375pt x 3
+01.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,83).png Graphic file (type
+ png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,83).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,83).png
+  used on input line 624.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,83).png, id=1144, 903.375pt x 3
+01.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,83).png Graphic file (type
+ png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,83).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,83).png
+  used on input line 624.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 624
+ []
+
+[37
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,83).png (PNG copy)> <../SImula
+cao_breakdown/Adaptacao_nova/pion(:,:,83).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,123).png, id=1173, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,123).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,123).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,123).pn
+g  used on input line 636.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,123).png, id=1174, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,123).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,123).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,123).pn
+g  used on input line 636.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 636
+ []
+
+[38
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,123).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,123).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,203).png, id=1202, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,203).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,203).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,203).pn
+g  used on input line 648.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,203).png, id=1203, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,203).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,203).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,203).pn
+g  used on input line 648.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 648
+ []
+
+[39
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,203).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,203).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,283).png, id=1231, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,283).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,283).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,283).pn
+g  used on input line 660.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,283).png, id=1232, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,283).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,283).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,283).pn
+g  used on input line 660.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 660
+ []
+
+[40
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,283).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,283).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,363).png, id=1259, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,363).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,363).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,363).pn
+g  used on input line 673.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,363).png, id=1260, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,363).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,363).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,363).pn
+g  used on input line 673.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 673
+ []
+
+[41
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,363).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,363).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,443).png, id=1288, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,443).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,443).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,443).pn
+g  used on input line 686.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,443).png, id=1289, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,443).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,443).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,443).pn
+g  used on input line 686.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 686
+ []
+
+[42
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,443).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,443).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,523).png, id=1317, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,523).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,523).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,523).pn
+g  used on input line 699.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,523).png, id=1318, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,523).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,523).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,523).pn
+g  used on input line 699.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 699
+ []
+
+[43
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,523).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,523).png (PNG copy)>]
+<../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,563).png, id=1346, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,563).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,563).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,563).pn
+g  used on input line 712.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+<../SImulacao_breakdown/Adaptacao_nova/pion(:,:,563).png, id=1347, 903.375pt x 
+301.125pt>
+File: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,563).png Graphic file (typ
+e png)
+<use ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,563).png>
+Package pdftex.def Info: ../SImulacao_breakdown/Adaptacao_nova/pion(:,:,563).pn
+g  used on input line 712.
+(pdftex.def)             Requested size: 271.01459pt x 90.33818pt.
+
+Overfull \vbox (15.76262pt too high) detected at line 712
+ []
+
+[44
+
+ <../SImulacao_breakdown/Adaptacao_nova/Jphi(:,:,563).png (PNG copy)> <../SImul
+acao_breakdown/Adaptacao_nova/pion(:,:,563).png (PNG copy)>] [45
+
+] [46
+
+]
+<../SImulacao_breakdown/PDE/malha.png, id=1426, 429.2838pt x 316.0608pt>
+File: ../SImulacao_breakdown/PDE/malha.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/malha.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/malha.png  used on input li
+ne 793.
+(pdftex.def)             Requested size: 216.67201pt x 159.52504pt.
+
+[47
+
+ <../SImulacao_breakdown/PDE/malha.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/ntod1B6.png, id=1454, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B6.png  used on input 
+line 810.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/ntod2B6.png, id=1455, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B6.png  used on input 
+line 810.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 810--810
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 810--810
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/ntod3B6.png, id=1456, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B6.png  used on input 
+line 810.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/ntod4B6.png, id=1457, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B6.png  used on input 
+line 810.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 810--810
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 810--810
+[] 
+ []
+
+
+Overfull \vbox (8.95834pt too high) detected at line 810
+ []
+
+[48
+
+ <../SImulacao_breakdown/PDE/ntod1B6.png (PNG copy)> <../SImulacao_breakdown/PD
+E/ntod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B6.png (PNG copy)> <
+../SImulacao_breakdown/PDE/ntod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/Jphitod1B6.png, id=1485, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B6.png  used on inp
+ut line 827.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/Jphitod2B6.png, id=1486, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B6.png  used on inp
+ut line 827.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 827--827
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 827--827
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/Jphitod3B6.png, id=1487, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B6.png  used on inp
+ut line 827.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/Jphitod4B6.png, id=1488, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B6.png  used on inp
+ut line 827.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 827--827
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 827--827
+[] 
+ []
+
+[49
+
+ <../SImulacao_breakdown/PDE/Jphitod1B6.png (PNG copy)> <../SImulacao_breakdown
+/PDE/Jphitod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B6.png (PNG
+ copy)> <../SImulacao_breakdown/PDE/Jphitod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B6.png, id=1517, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B6.png  used on input
+ line 844.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/petod2B6.png, id=1518, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B6.png  used on input
+ line 844.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 844--844
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 844--844
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/petod3B6.png, id=1519, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B6.png  used on input
+ line 844.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/petod4B6.png, id=1520, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B6.png  used on input
+ line 844.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 844--844
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 844--844
+[] 
+ []
+
+[50
+
+ <../SImulacao_breakdown/PDE/petod1B6.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B6.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B6.png, id=1547, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B6.png  used on input
+ line 858.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/pitod2B6.png, id=1548, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B6.png  used on input
+ line 858.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 858--858
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 858--858
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/pitod3B6.png, id=1549, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B6.png  used on input
+ line 858.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/pitod4B6.png, id=1550, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B6.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B6.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B6.png  used on input
+ line 858.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 858--858
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 858--858
+[] 
+ []
+
+[51
+
+ <../SImulacao_breakdown/PDE/pitod1B6.png (PNG copy)> <../SImulacao_breakdown/P
+DE/pitod2B6.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod3B6.png (PNG copy)
+> <../SImulacao_breakdown/PDE/pitod4B6.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/Campoeleext.png, id=1576, 429.10312pt x 316.18124pt
+>
+File: ../SImulacao_breakdown/PDE/Campoeleext.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Campoeleext.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Campoeleext.png  used on in
+put line 871.
+(pdftex.def)             Requested size: 214.55103pt x 158.09023pt.
+<../SImulacao_breakdown/PDE/CampoMagext2.png, id=1577, 421.575pt x 316.0608pt>
+File: ../SImulacao_breakdown/PDE/CampoMagext2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/CampoMagext2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/CampoMagext2.png  used on i
+nput line 871.
+(pdftex.def)             Requested size: 210.78697pt x 158.03001pt.
+ [52
+
+ <../SImulacao_breakdown/PDE/Campoeleext.png (PNG copy)> <../SImulacao_breakdow
+n/PDE/CampoMagext2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/CampoMagext.png, id=1606, 429.10312pt x 316.18124pt
+>
+File: ../SImulacao_breakdown/PDE/CampoMagext.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/CampoMagext.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/CampoMagext.png  used on in
+put line 881.
+(pdftex.def)             Requested size: 214.55103pt x 158.09023pt.
+ [53
+
+ <../SImulacao_breakdown/PDE/CampoMagext.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/vinl1.png, id=1633, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/vinl1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/vinl1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/vinl1.png  used on input li
+ne 892.
+(pdftex.def)             Requested size: 390.00697pt x 130.00502pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 892.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 892.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 892.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <14.4> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 892
+.
+[54
+
+ <../SImulacao_breakdown/PDE/vinl1.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/vinv1.png, id=1662, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/vinv1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/vinv1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/vinv1.png  used on input li
+ne 902.
+(pdftex.def)             Requested size: 390.00697pt x 130.00502pt.
+ [55
+
+ <../SImulacao_breakdown/PDE/vinv1.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/vinvloss1.png, id=1691, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/vinvloss1.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/vinvloss1.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/vinvloss1.png  used on inpu
+t line 912.
+(pdftex.def)             Requested size: 390.00697pt x 128.90227pt.
+ [56
+
+ <../SImulacao_breakdown/PDE/vinvloss1.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/ntod1B2.png, id=1719, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B2.png  used on input 
+line 932.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/ntod2B2.png, id=1720, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B2.png  used on input 
+line 932.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 932--932
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 932--932
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/ntod3B2.png, id=1721, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B2.png  used on input 
+line 932.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/ntod4B2.png, id=1722, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B2.png  used on input 
+line 932.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 932--932
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 932--932
+[] 
+ []
+
+[57
+
+ <../SImulacao_breakdown/PDE/ntod1B2.png (PNG copy)> <../SImulacao_breakdown/PD
+E/ntod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B2.png (PNG copy)> <
+../SImulacao_breakdown/PDE/ntod4B2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/Jphitod1B2.png, id=1749, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B2.png  used on inp
+ut line 948.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/Jphitod2B2.png, id=1750, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B2.png  used on inp
+ut line 948.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 948--948
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 948--948
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/Jphitod3B2.png, id=1751, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B2.png  used on inp
+ut line 948.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/Jphitod4B2.png, id=1752, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B2.png  used on inp
+ut line 948.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 948--948
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 948--948
+[] 
+ []
+
+[58
+
+ <../SImulacao_breakdown/PDE/Jphitod1B2.png (PNG copy)> <../SImulacao_breakdown
+/PDE/Jphitod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B2.png (PNG
+ copy)> <../SImulacao_breakdown/PDE/Jphitod4B2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B2.png, id=1779, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B2.png  used on input
+ line 964.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/petod2B2.png, id=1780, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B2.png  used on input
+ line 964.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 964--964
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 964--964
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/petod3B2.png, id=1781, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B2.png  used on input
+ line 964.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/petod4B2.png, id=1782, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B2.png  used on input
+ line 964.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 964--964
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 964--964
+[] 
+ []
+
+[59
+
+ <../SImulacao_breakdown/PDE/petod1B2.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B2.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B2.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B2.png, id=1808, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B2.png  used on input
+ line 981.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/pitod2B2.png, id=1809, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B2.png  used on input
+ line 981.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 981--981
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 981--981
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/pitod3B2.png, id=1810, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B2.png  used on input
+ line 981.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/pitod4B2.png, id=1811, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B2.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B2.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B2.png  used on input
+ line 981.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 981--981
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 981--981
+[] 
+ []
+
+[60
+
+ <../SImulacao_breakdown/PDE/pitod1B2.png (PNG copy)> <../SImulacao_breakdown/P
+DE/pitod2B2.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod3B2.png (PNG copy)
+> <../SImulacao_breakdown/PDE/pitod4B2.png (PNG copy)>] [61
+
+]
+<../SImulacao_breakdown/PDE/ntod1B8.png, id=1865, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod1B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod1B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod1B8.png  used on input 
+line 1005.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/ntod2B8.png, id=1866, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod2B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod2B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod2B8.png  used on input 
+line 1005.
+(pdftex.def)             Requested size: 218.66458pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1005--1005
+[][]
+ []
+
+
+Overfull \hbox (32.32983pt too wide) in paragraph at lines 1005--1005
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/ntod3B8.png, id=1867, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod3B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod3B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod3B8.png  used on input 
+line 1005.
+(pdftex.def)             Requested size: 218.66458pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/ntod4B8.png, id=1868, 911.0838pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/ntod4B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/ntod4B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/ntod4B8.png  used on input 
+line 1005.
+(pdftex.def)             Requested size: 218.66458pt x 72.27147pt.
+
+Overfull \hbox (32.32983pt too wide) in paragraph at lines 1005--1005
+[][]
+ []
+
+
+Overfull \hbox (32.32983pt too wide) in paragraph at lines 1005--1005
+[] 
+ []
+
+[62
+
+ <../SImulacao_breakdown/PDE/ntod1B8.png (PNG copy)> <../SImulacao_breakdown/PD
+E/ntod2B8.png (PNG copy)> <../SImulacao_breakdown/PDE/ntod3B8.png (PNG copy)> <
+../SImulacao_breakdown/PDE/ntod4B8.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/Jphitod1B8.png, id=1896, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod1B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod1B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod1B8.png  used on inp
+ut line 1021.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/Jphitod2B8.png, id=1897, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod2B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod2B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod2B8.png  used on inp
+ut line 1021.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1021--1021
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1021--1021
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/Jphitod3B8.png, id=1898, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod3B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod3B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod3B8.png  used on inp
+ut line 1021.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/Jphitod4B8.png, id=1899, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/Jphitod4B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/Jphitod4B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/Jphitod4B8.png  used on inp
+ut line 1021.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1021--1021
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1021--1021
+[] 
+ []
+
+[63
+
+ <../SImulacao_breakdown/PDE/Jphitod1B8.png (PNG copy)> <../SImulacao_breakdown
+/PDE/Jphitod2B8.png (PNG copy)> <../SImulacao_breakdown/PDE/Jphitod3B8.png (PNG
+ copy)> <../SImulacao_breakdown/PDE/Jphitod4B8.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/petod1B8.png, id=1927, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod1B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod1B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod1B8.png  used on input
+ line 1038.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/petod2B8.png, id=1928, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod2B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod2B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod2B8.png  used on input
+ line 1038.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1038--1038
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1038--1038
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/petod3B8.png, id=1929, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod3B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod3B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod3B8.png  used on input
+ line 1038.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/petod4B8.png, id=1930, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/petod4B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/petod4B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/petod4B8.png  used on input
+ line 1038.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1038--1038
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1038--1038
+[] 
+ []
+
+[64
+
+ <../SImulacao_breakdown/PDE/petod1B8.png (PNG copy)> <../SImulacao_breakdown/P
+DE/petod2B8.png (PNG copy)> <../SImulacao_breakdown/PDE/petod3B8.png (PNG copy)
+> <../SImulacao_breakdown/PDE/petod4B8.png (PNG copy)>]
+<../SImulacao_breakdown/PDE/pitod1B8.png, id=1957, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod1B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod1B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod1B8.png  used on input
+ line 1055.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/pitod2B8.png, id=1958, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod2B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod2B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod2B8.png  used on input
+ line 1055.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1055--1055
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1055--1055
+[] 
+ []
+
+<../SImulacao_breakdown/PDE/pitod3B8.png, id=1959, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod3B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod3B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod3B8.png  used on input
+ line 1055.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+<../SImulacao_breakdown/PDE/pitod4B8.png, id=1960, 903.375pt x 301.125pt>
+File: ../SImulacao_breakdown/PDE/pitod4B8.png Graphic file (type png)
+<use ../SImulacao_breakdown/PDE/pitod4B8.png>
+Package pdftex.def Info: ../SImulacao_breakdown/PDE/pitod4B8.png  used on input
+ line 1055.
+(pdftex.def)             Requested size: 216.81442pt x 72.27147pt.
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1055--1055
+[][]
+ []
+
+
+Overfull \hbox (30.47968pt too wide) in paragraph at lines 1055--1055
+[] 
+ []
+
+[65
+
+ <../SImulacao_breakdown/PDE/pitod1B8.png (PNG copy)> <../SImulacao_breakdown/P
+DE/pitod2B8.png (PNG copy)> <../SImulacao_breakdown/PDE/pitod3B8.png (PNG copy)
+> <../SImulacao_breakdown/PDE/pitod4B8.png (PNG copy)>] [66
+
+] [67
+
+] [68
+
+]
+[69
+
+] (Apresetacao_tcc_2.bbl) [70
+
+ </home/kevi/.miktex/texmfs/install/tex/latex/beamer/beamericonarticle.pdf>] [7
+1
+
+] [72
+
+]
+\tf@nav=\write6
+\openout6 = `Apresetacao_tcc_2.nav'.
+
+\tf@toc=\write7
+\openout7 = `Apresetacao_tcc_2.toc'.
+
+\tf@snm=\write8
+\openout8 = `Apresetacao_tcc_2.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1143.
+ (Apresetacao_tcc_2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1143.
+
+Package rerunfilecheck Info: File `Apresetacao_tcc_2.out' has not changed.
+(rerunfilecheck)             Checksum: 8C444F8EB85F07441CCEAD9ABFD0AB86;989.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23073 strings out of 494864
+ 431206 string characters out of 3178363
+ 527571 words of memory out of 3000000
+ 25720 multiletter control sequences out of 15000+200000
+ 165721 words of font info for 146 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 56i,15n,79p,1239b,766s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/kevi/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/home/kevi/.
+miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/home/kevi/.miktex/texm
+fs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/kevi/.miktex/texmfs/install/
+fonts/enc/dvips/lm/lm-mathex.enc}</home/kevi/.miktex/texmfs/install/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/p
+ublic/lm/lmbsy10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/l
+mbx10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmex10.pfb><
+/home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmmi10.pfb></home/kevi/
+.miktex/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></home/kevi/.miktex/tex
+mfs/install/fonts/type1/public/lm/lmmi6.pfb></home/kevi/.miktex/texmfs/install/
+fonts/type1/public/lm/lmmi8.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/
+public/lm/lmmi9.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lm
+r8.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmss10.pfb></ho
+me/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmss12.pfb></home/kevi/.mi
+ktex/texmfs/install/fonts/type1/public/lm/lmss17.pfb></home/kevi/.miktex/texmfs
+/install/fonts/type1/public/lm/lmss8.pfb></home/kevi/.miktex/texmfs/install/fon
+ts/type1/public/lm/lmss9.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/pub
+lic/lm/lmssbo10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lm
+ssbx10.pfb></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmsso10.pfb
+></home/kevi/.miktex/texmfs/install/fonts/type1/public/lm/lmsso8.pfb></home/kev
+i/.miktex/texmfs/install/fonts/type1/public/lm/lmsso9.pfb></home/kevi/.miktex/t
+exmfs/install/fonts/type1/public/lm/lmsy10.pfb></home/kevi/.miktex/texmfs/insta
+ll/fonts/type1/public/lm/lmsy7.pfb></home/kevi/.miktex/texmfs/install/fonts/typ
+e1/public/lm/lmsy8.pfb>
+Output written on Apresetacao_tcc_2.pdf (72 pages, 10577412 bytes).
+PDF statistics:
+ 2301 PDF objects out of 2487 (max. 8388607)
+ 206 named destinations out of 1000 (max. 500000)
+ 609 words of extra memory for PDF output out of 10000 (max. 10000000)
+

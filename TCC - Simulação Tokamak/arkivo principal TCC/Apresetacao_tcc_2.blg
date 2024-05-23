@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Apresetacao_tcc_2.aux
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Database file #2: TCC_2.bib
+I was expecting a `,' or a `}'---line 139 of file TCC_2.bib
+ : 
+ : @article{Thyagaraja_2000,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--campo year vazio ou faltando em thermalplasmas
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There was 1 error message)

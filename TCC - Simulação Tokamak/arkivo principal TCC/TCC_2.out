@@ -1,0 +1,39 @@
+\BOOKMARK [0][-]{chapter.1}{Introdu\347\343o}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Plasma}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Fus\343o}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Tokamak}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Fase de Breakdown em um Tokamak}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Fase de burn-through em um Tokamak}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Fase de ramp-up em um Tokamak}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.7}{Fun\347\343o de Distribui\347\343o}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.8}{Temperatura e outros momentos da distribui\347\343o}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{Objetivos}{}% 10
+\BOOKMARK [0][-]{chapter.3}{Revis\343o Bibliogr\341fica}{}% 11
+\BOOKMARK [0][-]{chapter.4}{Cronograma}{}% 12
+\BOOKMARK [0][-]{chapter.5}{Fase Te\363rica}{}% 13
+\BOOKMARK [1][-]{section.5.1}{Equa\347\343o de Vlasov}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.2}{Equa\347\343o de Conserva\347\343o de Massa}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.3}{Equa\347\343o de Conserva\347\343o de Momento}{chapter.5}% 16
+\BOOKMARK [1][-]{section.5.4}{Equa\347\343o de Conserva\347\343o de Energia}{chapter.5}% 17
+\BOOKMARK [1][-]{section.5.5}{Simplifica\347\365es}{chapter.5}% 18
+\BOOKMARK [0][-]{chapter.6}{Fase Computacional}{}% 19
+\BOOKMARK [1][-]{section.6.1}{Equipotenciais Campo Magn\351tico}{chapter.6}% 20
+\BOOKMARK [1][-]{section.6.2}{Abordagem expl\355cita no tempo}{chapter.6}% 21
+\BOOKMARK [1][-]{section.6.3}{Abordagem pelo PDE Solver}{chapter.6}% 22
+\BOOKMARK [2][-]{subsection.6.3.1}{Introdu\347\343o ao PDE Solver}{section.6.3}% 23
+\BOOKMARK [2][-]{subsection.6.3.2}{Aproxima\347\343o da taxa de ioniza\347\343o menos perda por uma Gaussiana}{section.6.3}% 24
+\BOOKMARK [2][-]{subsection.6.3.3}{Resultados com os coeficientes de transporte}{section.6.3}% 25
+\BOOKMARK [0][-]{chapter.7}{Conclus\343o}{}% 26
+\BOOKMARK [0][-]{appendix.A}{Sistema de Coordenadas Pseudotoridais}{}% 27
+\BOOKMARK [0][-]{appendix.B}{Exemplo em Coordenadas Pseudotoridais}{}% 28
+\BOOKMARK [0][-]{appendix.C}{Lista de Nota\347\365es}{}% 29
+\BOOKMARK [0][-]{appendix.D}{Dimens\365es das Bobinas do tokamak NOVA-FURG}{}% 30
+\BOOKMARK [0][-]{appendix.E}{Tabela de Unidades \332teis}{}% 31
+\BOOKMARK [0][-]{appendix.F}{Momentos da distribui\347\343o}{}% 32
+\BOOKMARK [0][-]{appendix.G}{Valor M\351dio}{}% 33
+\BOOKMARK [0][-]{appendix.H}{O modelo de Townsend}{}% 34
+\BOOKMARK [0][-]{appendix.I}{Movimento de portadores de cargas}{}% 35
+\BOOKMARK [1][-]{section.I.1}{Movimento constante e uniforme}{appendix.I}% 36
+\BOOKMARK [1][-]{section.I.2}{Campo eletromagn\351tico uniforme}{appendix.I}% 37
+\BOOKMARK [1][-]{section.I.3}{Campo magn\351tico uniforme}{appendix.I}% 38
+\BOOKMARK [1][-]{section.I.4}{Solu\347\343o Formal da Equa\347\343o do Movimento}{appendix.I}% 39

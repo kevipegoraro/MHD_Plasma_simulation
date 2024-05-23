@@ -1,0 +1,52 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Resumo}}{4}{chapter.1}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Palavras Chave}}{4}{chapter.2}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{4}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Plasma}{4}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Fus\IeC {\~a}o}{5}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Tokamak}{6}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Breakdown em um Tokamak}{8}{section.3.4}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Objetivos}}{8}{chapter.4}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}}{9}{chapter.5}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Cronograma}}{9}{chapter.6}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Metodologia}}{10}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Equa\IeC {\c c}\IeC {\~a}o de Vlasov}{10}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Equa\IeC {\c c}\IeC {\~a}o de Conserva\IeC {\c c}\IeC {\~a}o de Massa}{12}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Equa\IeC {\c c}\IeC {\~a}o de Conserva\IeC {\c c}\IeC {\~a}o de Momento}{12}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Equa\IeC {\c c}\IeC {\~a}o de Conserva\IeC {\c c}\IeC {\~a}o de Energia}{14}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Simplifica\IeC {\c c}\IeC {\~o}es}{17}{section.7.5}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Sistema de Coordenadas Pseudotoridais}}{19}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Exemplo em Coordenadas Pseudotoridais}{26}{section.8.1}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Fase Computacional}}{28}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Equipotenciais Campo Magn\IeC {\'e}tico}{29}{section.9.1}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Resultados esperados}}{31}{chapter.10}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Conclus\IeC {\~a}o}}{31}{chapter.11}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {O modelo de Townsend}}{32}{appendix.A}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Momentos da distribui\IeC {\c c}\IeC {\~a}o}}{33}{appendix.B}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Lista de Nota\IeC {\c c}\IeC {\~o}es}}{34}{appendix.C}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Valor M\IeC {\'e}dio}}{35}{appendix.D}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {E}\MakeTextUppercase {Tabela Par\IeC {\^a}metros Bobinas Nova-Furg}}{36}{appendix.E}% 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {appendix}{\chapternumberline {F}\MakeTextUppercase {Tabela de Unidades \IeC {\'U}teis}}{37}{appendix.F}% 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{39}{section*.3}% 

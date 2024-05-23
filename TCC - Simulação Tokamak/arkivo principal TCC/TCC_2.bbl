@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+
+\bibitem{breacdown}
+C.~D.~Warrick B.~Lloyd, P. G.~Carolan.
+\newblock {\em ECRH-assisted start-up in ITER}.
+\newblock Plasma Phys Control. Fusion, 38:1627, 1996.
+
+\bibitem{bittencourt}
+J.~A. Bittencourt.
+\newblock {\em Fundamentals of Plasma Physics}.
+\newblock Springer, Berlin, 2004.
+
+\bibitem{grimm1983ideal}
+RC~Grimm, RL~Dewar, and J~Manickam.
+\newblock Ideal mhd stability calculations in axisymmetric toroidal coordinate
+  systems.
+\newblock {\em Journal of Computational Physics}, 49(1):94--117, 1983.
+
+\bibitem{article0}
+Alexander Gutsol, A.~Fridman, and Young Cho.
+\newblock Non-thermal atmospheric pressure plasma.
+\newblock {\em Advances in Heat Transfer}, 40:1--142, 01 2007.
+
+\bibitem{harafuji1989computational}
+Kenji Harafuji, Takaya Hayashi, and Tetsuya Sato.
+\newblock Computational study of three-dimensional magnetohydrodynamic
+  equilibria in toroidal helical systems.
+\newblock {\em Journal of computational physics}, 81(1):169--192, 1989.
+
+\bibitem{RevModPhys.48.239}
+F.~L. Hinton and R.~D. Hazeltine.
+\newblock Theory of plasma transport in toroidal confinement systems.
+\newblock {\em Rev. Mod. Phys.}, 48:239--308, Apr 1976.
+
+\bibitem{kim2013physics}
+Hyun~Tae Kim.
+\newblock Physics and computational simulations of plasma burn-through for
+  tokamak start-up.
+\newblock 2013.
+
+\bibitem{kim2013plasma}
+Hyun-Tae Kim, ACC Sips, PC~De~Vries, JET-EFDA Contributors, et~al.
+\newblock Plasma burn-through simulations using the dyon code and predictions
+  for iter.
+\newblock {\em Plasma Physics and Controlled Fusion}, 55(12):124032, 2013.
+
+\bibitem{Kruskal1958}
+Kulsrud R.~M. Kruskal, M.~D.
+\newblock Equilibrium of a magnetically confined plasma in a toroid.
+\newblock {\em Physics of Fluids}, 1(4), 1958.
+\newblock \url{https://doi.org/10.1063/1.1705884}.
+
+\bibitem{lloyd1991}
+B.~Lloyd.
+\newblock {\em Nuclear Fusion}.
+\newblock et al, -, 1991.
+
+\bibitem{thermalplasmas}
+E.~Pfender M.~I.~Boulos, P.~Fauchais.
+\newblock {\em Thermal Plasmas: Fundamentals and Applications}.
+\newblock Springer Science+Business Media, LLC.
+
+\bibitem{MagneticControl}
+Alfredo~Pironti Marco~Ariola.
+\newblock {\em Magnetic Control of Tokamak Plasmas}.
+\newblock Springer, -, 2008.
+
+\bibitem{breacdown2}
+D~Mueller.
+\newblock {\em The physics of tokamak start-up}.
+\newblock Physics of Plasmas, 20(2013):058101, 2013.
+
+\bibitem{figplasma}
+A.~L. Peratt.
+\newblock {\em Advances in Numerical Modeling of Astrophysical and Space
+  Plasmas}.
+\newblock Astrophysics and Space Science, 1966.
+\newblock \url{https://dx.doi.org/10.1007%2FBF00645112}.
+
+\bibitem{piras2011extremely}
+Francesco Piras.
+\newblock Extremely shaped plasmas to improve the tokamak concept.
+\newblock 2011.
+
+\bibitem{hirshman}
+S.~C.~Jardin S.~P.~Hirshman.
+\newblock Two‐dimensional transport of tokamak plasmas.
+\newblock {\em The Physics of Fluids}, 22, 1979.
+\newblock \url{ https://doi.org/10.1063/1.862654}.
+
+\bibitem{Sakanaka1981}
+P.H. Sakanaka.
+\newblock {\em Macroscopic plasma properties and stability theory}, volume~12.
+\newblock \url{https://inis.iaea.org/search/search.aspx?orig_q=RN:12614713},
+  year={1981}.
+
+\bibitem{sinha2017plasma}
+Joyeeta Sinha.
+\newblock Plasma breakdown and current formation in single core and doublet
+  configurations on tcv.
+\newblock Technical report, EPFL, 2017.
+
+\bibitem{Thyagaraja_2000}
+A~Thyagaraja.
+\newblock Numerical simulations of tokamak plasma turbulence and internal
+  transport barriers.
+\newblock {\em Plasma Physics and Controlled Fusion}, 42(12B):B255--B269, dec
+  2000.
+
+\bibitem{weisstein2003toroidal}
+Eric~W Weisstein.
+\newblock Toroidal coordinates.
+\newblock 2003.
+
+\bibitem{tokamaks}
+J.A. Wesson.
+\newblock {\em Tokamaks}.
+\newblock Clarendon Press, Oxford, 2$^{th}$ edition, 1997.
+
+\bibitem{yoo2014ohmic}
+M~Yoo, Yong-Su Na, J~Kim, Y~An, B~Jung, Y~Hwang, S~Shim, H~Lee, and T~Hahm.
+\newblock {\em On ohmic breakdown physics in a tokamak}.
+\newblock 2014.
+
+\bibitem{Zakharov}
+L.~Zakharov and B.~Rogers.
+\newblock Physics of fluids b.
+\newblock {\em Plasma Physics}, 4, 1989-1993.
+\newblock \url{http://dx.doi.org/10.1063/1.860384}.
+
+\end{thebibliography}

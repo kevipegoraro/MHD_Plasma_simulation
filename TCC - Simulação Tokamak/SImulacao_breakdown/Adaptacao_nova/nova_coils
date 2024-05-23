@@ -1,0 +1,16 @@
+% Ro       Zo         dR        dZ         Nturn
+0.1610     0.2650     0.050     0.0500     6  % E1 %bobinas laterais
+0.1610    -0.2650     0.050     0.0500     6  % E2
+0.5300     0.3400     0.050     0.0500     6  % E3
+0.5300    -0.3400     0.050     0.0500     6  % E4
+0.3500    -0.0000     0.00250   0.00250    1  % Ep0  %bobinas para simular o plasma
+0.368125   0.0000     0.00125   0.00125    1  % Ep1  %bobinas para simular o plasma
+0.3700     0.001875   0.00125   0.00125    1  % Ep2  %bobinas para simular o plasma
+0.371875   0.0000     0.00125   0.00125    1  % Ep3  %bobinas para simular o plasma
+0.3700    -0.001875   0.00125   0.00125    1  % Ep4  %bobinas para simular o plasma
+0.4125     0.2400     0.025     0.0150     6  % E5  %externas-externas bobinas de compensação
+0.4125    -0.2400     0.025     0.0150     6  % E6  %externas-externas
+0.3875     0.2400     0.025     0.0150     6  % E7  %externas-internas
+0.3875    -0.2400     0.025     0.0150     6  % E8  %externas-internas
+0.1600     0.1300     0.015     0.0500     6  % E9  %%bobinas de compensação internas    % ohminico0.1610     0.300      0.05      0.0500     1  % b11  %%bobinas de aquecimento ohnico
+0.1600    -0.1300     0.015     0.0500     6  % E10

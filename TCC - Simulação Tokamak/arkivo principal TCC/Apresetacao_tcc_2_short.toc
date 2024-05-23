@@ -1,0 +1,15 @@
+\babel@toc {brazil}{}
+\beamer@sectionintoc {1}{Plasma}{5}{0}{1}
+\beamer@sectionintoc {2}{Fus\IeC {\~a}o}{7}{0}{2}
+\beamer@sectionintoc {3}{Tokamaks}{8}{0}{3}
+\beamer@sectionintoc {4}{Desenvolvimento do modelo de dois fluidos}{11}{0}{4}
+\beamer@sectionintoc {5}{Superf\IeC {\'\i }cies de fluxo magn\IeC {\'e}tico poloidal}{19}{0}{5}
+\beamer@sectionintoc {6}{Equa\IeC {\c c}\IeC {\~o}es dos campos eletromagn\IeC {\'e}ticos}{23}{0}{6}
+\beamer@sectionintoc {7}{Condi\IeC {\c c}\IeC {\~o}es iniciais e de contorno}{26}{0}{7}
+\beamer@sectionintoc {8}{Resultados c\IeC {\'o}digo expl\IeC {\'\i }cito no tempo}{28}{0}{8}
+\beamer@sectionintoc {9}{PDE solver no MATLAB}{43}{0}{9}
+\beamer@sectionintoc {10}{Aproxima\IeC {\c c}\IeC {\~a}o da taxa de ioniza\IeC {\c c}\IeC {\~a}o menos perda por uma gaussiana}{45}{0}{10}
+\beamer@sectionintoc {11}{Aproxima\IeC {\c c}\IeC {\~a}o da ioniza\IeC {\c c}\IeC {\~a}o pelo modelo de Townsend}{50}{0}{11}
+\beamer@sectionintoc {12}{Aproxima\IeC {\c c}\IeC {\~a}o do campo magn\IeC {\'e}tico gerado pelo plasma}{59}{0}{12}
+\beamer@sectionintoc {13}{Conclus\IeC {\~a}o}{64}{0}{13}
+\beamer@sectionintoc {14}{Refer\^{e}ncias bibliogr\'{a}ficas}{69}{0}{14}

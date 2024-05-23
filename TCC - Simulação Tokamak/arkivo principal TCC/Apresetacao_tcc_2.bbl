@@ -1,0 +1,50 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Ariola 2008]{MagneticControl}
+\abntrefinfo{Ariola}{ARIOLA}{2008}
+{ARIOLA, A.~P. M. \textbf{Magnetic Control of Tokamak Plasmas}. -: Springer,
+  2008.}
+
+\bibitem[Bittencourt 2004]{bittencourt}
+\abntrefinfo{Bittencourt}{BITTENCOURT}{2004}
+{BITTENCOURT, J.~A. \textbf{Fundamentals of Plasma Physics}. Berlin: Springer,
+  2004.}
+
+\bibitem[Boulos P.~Fauchais]{thermalplasmas}
+\abntrefinfo{Boulos P.~Fauchais}{BOULOS P.~FAUCHAIS}{}
+{BOULOS P.~FAUCHAIS, E.~P. M.~I. \textbf{Thermal Plasmas: Fundamentals and
+  Applications}. [S.l.]: Springer Science+Business Media, LLC.}
+
+\bibitem[Gutsol, Fridman e Cho 2007]{article0}
+\abntrefinfo{Gutsol, Fridman e Cho}{GUTSOL; FRIDMAN; CHO}{2007}
+{GUTSOL, A.; FRIDMAN, A.; CHO, Y. Non-thermal atmospheric pressure plasma.
+\textbf{Advances in Heat Transfer}, v.~40, p. 1--142, 01 2007.}
+
+\bibitem[Kim 2013]{kim2013physics}
+\abntrefinfo{Kim}{KIM}{2013}
+{KIM, H.~T. Physics and computational simulations of plasma burn-through for
+  tokamak start-up.
+Imperial College London, 2013.}
+
+\bibitem[Peratt 1966]{figplasma}
+\abntrefinfo{Peratt}{PERATT}{1966}
+{PERATT, A.~L. \textbf{Advances in Numerical Modeling of Astrophysical and
+  Space Plasmas}. [S.l.]: Astrophysics and Space Science, 1966.
+  \url{https://dx.doi.org/10.1007%2FBF00645112}.}
+
+\bibitem[Wesson 1997]{tokamaks}
+\abntrefinfo{Wesson}{WESSON}{1997}
+{WESSON, J. \textbf{Tokamaks}. Oxford, 2$^{th}$ edition: Clarendon Press,
+  1997.}
+
+\bibitem[Yoo et al. 2014]{yoo2014ohmic}
+\abntrefinfo{Yoo et al.}{YOO et al.}{2014}
+{YOO, M. et al. \textbf{On ohmic breakdown physics in a tokamak}. [S.l.: s.n.],
+  2014.}
+
+\end{thebibliography}

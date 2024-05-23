@@ -1,0 +1,7 @@
+model = createpde(3);
+geometryFromEdges(model,@circleg);
+u0 = @u0fun;
+ut0 = @ut0fun;
+setInitialConditions(model,u0,ut0);
+results = solvepde(model,t0:tstep:t1);
+setInitialConditions(model,results)

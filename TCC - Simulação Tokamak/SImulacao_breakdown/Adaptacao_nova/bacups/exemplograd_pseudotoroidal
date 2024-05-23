@@ -1,0 +1,10 @@
+%Exemplo de gradiente em coordenadas pseudoroidais
+%campo spim
+%posições tokamak
+%r = 0.06;
+%p_central = 0.37;
+Ng = 65
+out.r = linspace(0.001,0.06,Ng);
+out.theta = linspace(0,2*pi,Ng);
+out.fhi = linspace(0,2*pi,Ng);
+[r,theta,fhi] = meshgrid(out.r,out.theta,out.fhi);

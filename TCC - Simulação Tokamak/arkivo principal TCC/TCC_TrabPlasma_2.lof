@@ -1,0 +1,12 @@
+\babel@toc {brazil}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Esquema b\IeC {\'a}sico de um tokamak [Daltrini (1999), Ferrari e Nascimento (1988)]}}{7}{figure.3.1}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Tokamak Nova-Furg, modelo feito no Blender autoria pr\IeC {\'o}pria}}{8}{figure.3.2}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Coordenadas Pseudotoridais}}{20}{figure.8.3}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces O ponto $A$ representado em coordenadas pseudotoridais}}{20}{figure.8.4}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Algoritimo para a resolu\IeC {\c c}\IeC {\~a}o num\IeC {\'e}rica via \textit {rk4} de \ref {eqexe} no Matlab}}{27}{figure.8.5}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces Gr\IeC {\'a}fico da resolu\IeC {\c c}\IeC {\~a}o n\IeC {\'u}merica de \ref {eqexe} no Matlab - Verticalmente temos o valor de $n(r)$ em $m^{-3}$, e horizontalmente o valor de $r$ em $m$.}}{27}{figure.8.6}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces Algoritimo para a resolu\IeC {\c c}\IeC {\~a}o num\IeC {\'e}rica via \textit {rk4} de \ref {eqexe} no Matlab}}{28}{figure.8.7}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces Gr\IeC {\'a}fico da resolu\IeC {\c c}\IeC {\~a}o n\IeC {\'u}merica de \ref {eqexe} no Matlab - Verticalmente temos o valor de $n(r)$ em $m^{-3}$, e horizontalmente o valor de $r$ em $m$.}}{28}{figure.8.8}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces Equipotenciais Campo Magn\IeC {\'e}tico gerado pelas bobinas do Tokamak Nova-Furg - Imagem feita no Matlab, autoria pr\IeC {\'o}pria}}{30}{figure.9.9}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces Equipotenciais Campo Magn\IeC {\'e}tico gerado pelas bobinas e corrente de plasma do Tokamak Nova-Furg - Imagem feita no Matlab, autoria pr\IeC {\'o}pria}}{31}{figure.9.10}% 
+\contentsline {figure}{\numberline {11}{\ignorespaces Bobinas Tokamak Nova-Furg - Modelo criado no Blender, autoria pr\IeC {\'o}pria}}{37}{figure.E.11}% 

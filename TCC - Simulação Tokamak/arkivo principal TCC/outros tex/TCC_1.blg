@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: TCC_1.aux
+The style file: plain.bst
+Database file #1: TCC_1.bib
+I was expecting a `,' or a `}'---line 63 of file TCC_1.bib
+ : 
+ : @article{Thyagaraja_2000,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Kruskal, M. D., Kulsrud, R. M." for entry Kruskal1958
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Kruskal, M. D., Kulsrud, R. M." for entry Kruskal1958
+while executing---line 1090 of file plain.bst
+Warning--empty publisher in Sakanaka1981
+Warning--empty year in Sakanaka1981
+Warning--empty publisher in yoo2014ohmic
+(There were 3 error messages)

@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+
+\bibitem{bittencourt}
+J.~A. Bittencourt.
+\newblock {\em Fundamentals of Plasma Physics}.
+\newblock Springer, Berlin, 2004.
+
+\bibitem{Kruskal1958}
+Kulsrud R.~M. Kruskal, M.~D.
+\newblock Equilibrium of a magnetically confined plasma in a toroid.
+\newblock {\em Physics of Fluids}, 1(4), 1958.
+\newblock \url{https://doi.org/10.1063/1.1705884}.
+
+\bibitem{lloyd1991}
+B.~Lloyd.
+\newblock {\em Nuclear Fusion}.
+\newblock et al, -, 1991.
+
+\bibitem{MagneticControl}
+Alfredo~Pironti Marco~Ariola.
+\newblock {\em Magnetic Control of Tokamak Plasmas}.
+\newblock Springer, -, 2008.
+
+\bibitem{hirshman}
+S.~C.~Jardin S.~P.~Hirshman.
+\newblock Two‐dimensional transport of tokamak plasmas.
+\newblock {\em The Physics of Fluids}, 22, 1979.
+\newblock \url{ https://doi.org/10.1063/1.862654}.
+
+\bibitem{Sakanaka1981}
+P.H. Sakanaka.
+\newblock {\em Macroscopic plasma properties and stability theory}, volume~12.
+\newblock \url{https://inis.iaea.org/search/search.aspx?orig_q=RN:12614713},
+  year={1981}.
+
+\bibitem{Thyagaraja_2000}
+A~Thyagaraja.
+\newblock Numerical simulations of tokamak plasma turbulence and internal
+  transport barriers.
+\newblock {\em Plasma Physics and Controlled Fusion}, 42(12B):B255--B269, dec
+  2000.
+
+\bibitem{tokamaks}
+J.A. Wesson.
+\newblock {\em Tokamaks}.
+\newblock Clarendon Press, Oxford, 2$^{th}$ edition, 1997.
+
+\bibitem{yoo2014ohmic}
+M~Yoo, Yong-Su Na, J~Kim, Y~An, B~Jung, Y~Hwang, S~Shim, H~Lee, and T~Hahm.
+\newblock {\em On ohmic breakdown physics in a tokamak}.
+\newblock 2014.
+
+\bibitem{Zakharov}
+L.~Zakharov and B.~Rogers.
+\newblock Physics of fluids b.
+\newblock {\em Plasma Physics}, 4, 1989-1993.
+\newblock \url{http://dx.doi.org/10.1063/1.860384}.
+
+\end{thebibliography}

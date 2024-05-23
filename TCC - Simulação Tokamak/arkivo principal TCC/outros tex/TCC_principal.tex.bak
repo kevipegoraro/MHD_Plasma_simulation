@@ -1,0 +1,1172 @@
+\documentclass[12pt,oneside,a4paper]{abntex2}                   
+\usepackage{cmap}                               % Mapear caracteres especiais no PDF
+\usepackage{lmodern}                    % Usa a fonte Latin Modern                      
+\usepackage[usenames,dvipsnames]{pstricks}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{enumerate}
+\usepackage{amsthm}
+%\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{mathptmx}
+\usepackage{esvect}
+\usepackage{amssymb,indentfirst}  
+\usepackage[centertags]{amsmath} 
+\usepackage[T1]{fontenc}        
+\usepackage[utf8]{inputenc}          
+\usepackage{makeidx}            % Cria o indice
+\usepackage{hyperref}                   % Controla a formação do índice
+\usepackage{lastpage}                   % Usado pela Ficha catalográfica
+\usepackage{indentfirst}              
+\usepackage{nomencl}           
+\usepackage{color}                             
+\usepackage{graphicx}             
+\usepackage{pdfpages}
+%%% pacotes q eu adicionei
+
+
+%%% fim dos pacotes adicionados por mim
+
+
+\usepackage[normalem]{ulem}     % Sublinhados
+% ---
+ \definecolor{lightblue}{rgb}{0.68,0.85,0.9}
+ \definecolor{indianred}{rgb}{0.8,0.36,0.36}
+
+\usepackage[brazilian,hyperpageref]{backref}     % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}   % Citações padrão ABNT
+\usepackage[usenames,dvipsnames]{xcolor}
+\definecolor{cinza}{rgb}{0.95,0.95,0.95}
+\newcommand{\quadro}[1]{\fcolorbox{white}{cinza}{\begin{minipage}[t]{0.9\textwidth} #1 \end{minipage} }}   
+
+\theoremstyle{definition}  %Tira o itálico dos newtheorem
+\newtheorem{definition}{Definição}[section]
+\newtheorem{theorem}{Teorema}[section]
+\newtheorem{obs}{Observação}[section] 
+\newtheorem{com}{Comentário}[section] 
+\newcommand{\PP}{\mathbb P}
+\newcommand{\TT}{\mathbb T}
+\newcommand{\RR}{\mathbb R}
+\newcommand{\ZZ}{\mathbb Z}
+\newcommand{\NN}{\mathbb N}
+\newcommand{\CC}{\mathbb C}
+\newcommand{\VV}{\mathbb V}
+\newcommand{\sen}{\mathrm{sen}}
+
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}[1]{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+        \ifcase #1 %
+                Nenhuma citação no texto.%
+        \or
+                Citado na página #2.%
+        \else
+                Citado #1 vezes nas páginas #2.
+        \fi}%
+
+\titulo{{Modelo de 2 Fluidos para o Breackdown no Tocamak Nova-Furg}}
+\autor{Kévi Pegoraro}
+\local{Rio Grande, Rio Grande do Sul, Brasil}
+\data{Mês da Defesa, Ano}
+\orientador{{Dro. Magno P. Coralles}}
+\coorientador{{Dr. se houver}}
+\instituicao{%
+  Universidade Federal do Rio Grande - FURG
+  \par
+  Instituto de Matemática, Estatística e Física - IMEF
+  \par
+  Curso de Matemática Aplicada Bacharelado}
+\tipotrabalho{Trabalho de Conclusão de Curso}
+\preambulo{Trabalho de Conclusão de Curso, Matemática Aplicada Bacharelado, submetido por XXXX junto ao Instituto de Matemática, Estatística e Física da Universidade Federal do Rio Grande.}
+\definecolor{blue}{RGB}{41,5,195}
+
+\setlength{\parindent}{1.3cm}
+
+\setlength{\parskip}{0.2cm}  % tente também 
+\makeindex
+
+\makenomenclature
+
+\begin{document}
+
+\imprimircapa
+
+\imprimirfolhaderosto*
+
+\newpage
+
+\begin{dedicatoria}
+   \vspace*{\fill}
+   \centering
+   \noindent
+   \textit{Este trabalho é dedicado Liberdade que não temos.}
+   
+   \vspace{.3cm}
+% \begin{citacao}   Se és capaz de aceitar teus alunos como são, com suas diferentes realidades humanas, sociais e culturais; se os levas a superar as dificuldades, 
+% limitações ou fracassos, sem humilhações, sem inúteis frustrações; se os levas a refletir mais do que decorar; se te emocionas com a visão de tantas criaturas que de 
+% ti dependem para desabrochar em consciência, criatividade, liberdade e responsabilidade, então podes dizer: sou mestre. 
+% \end{citacao} (Rui Barbosa) \vspace*{\fill}
+\end{dedicatoria}
+% ---
+\newpage
+
+\begin{agradecimentos}
+Agradeço ao professor Magno Pinto Collares pela grande ajuda na oreientação deste trabalho e ao professor Gustavo Paganini Canal - USP pela  contribuição com material de estudo, resposta a inúmeras duvidas e ajuda com deselvolviemnto númerico.
+\end{agradecimentos}
+
+\begin{resumo}
+XXXXXX. 
+\vspace{\onelineskip}
+\noindent \textbf{Palavras-chaves}: XX, XX.
+\newpage 
+  
+%
+%    
+\end{resumo}
+% resumo em inglês
+\begin{resumo}[Abstract]
+This XXXXXX. 
+\vspace{\onelineskip}
+ 
+ \noindent 
+ \textbf{Key-words}: XX, XX.
+\end{resumo}
+
+\pdfbookmark[0]{\listfigurename}{lof}
+\listoffigures*
+\cleardoublepage
+
+ \pdfbookmark[0]{\listtablename}{lot}
+ \listoftables*
+ \cleardoublepage
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+% ---
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+% É possível usar \textual ou \mainmatter, que é a macro padrão do memoir.  
+\mainmatter
+\chapter*[Introdução]{Introdução}
+\addcontentsline{toc}{chapter}{Introdução}
+Entender o breakdown do plasma é essencial para melhorar o desempenho dos tokamaks e é um passo importante para chegarmos a fonte de energia ampla e não poluente que a fusão pode se tornar.
+O objetivo do presente trabalho é, por meio de uma simulação númerica, estudar  a fase de brakdown do plasma dentro de um tokamak, do inicio da descarga primária até a estabilização dentro to tokamak NOVA-Furg. Espero neste trabalho obter dados de simulação querentes com os medidos nos disparos do tokamak, para poder coompreender melhor oque esta acontecendo durante o breakdownn, tendo assim uma maneira de prever os resultados de cada experiemento na maquina.
+\section{Como Funciona um Tokamak}
+Tokamak é um reator experimental de fusão nuclear. Serve para estudar plasmas de alta tempertura que são mantidos confinados por campos magnéticos intensos. O objetivo final da pesquisa nesta área é viabilizar, no futuro, a construção de reatores nucleares de fusão, onde núcleos de deutério e trítio possam se unir, liberando uma grande quantidade de energia que servirá para aquecer água, gerar vapor e assim mover uma turbina, acoplada a um gerador elétrico. A pesquisa em tokamaks, portanto, está ligada à procura de fontes alternativas de energia para a produção de eletricidade. 
+Basicamente, o Tokamak é um potente eletroímã que produz um campo magnético toroidal para o confinamento de plasma (o quarto estado físico da matéria, que compõe as estrelas) de isótopos pesados de hidrogênio (deutério e trítio especificamente). Em seu interior ocorre uma reação de fusão nuclear cujo objetivo é criar plasma que deve ser contido em um espaço limitado, de forma a não tocar nas paredes internas do reator, tanto para não danificá-lo, quanto para não dissipar a energia do combustível via condução térmica. O plasma é então contido pelo intenso campo magnético gerado pelo Tokamak.
+O isolamento magnético permite que se alcancem altas temperaturas, impedindo o combustível da reação, os isótopos de hidrogênio, de desgastar ou sobreaquecer o reator. O campo magnético tem geometria toroidal (em forma de pneu). Este método de contenção do plasma, é conhecido como confinamento magnético. Existe ainda, outra forma de confinamento do plasma que é o confinamento inercial. Nesta, um laser de alta potência bombardeia o combustível do reator. Isto causa a "implosão" do combustível e o início de uma reação em cadeia, que tem como consequência o início do processo de fusão nuclear. Na natureza há uma terceira forma, o confinamento gravitacional, este impraticável na Terra. O confinamento gravitacional é a forma como as estrelas contêm o plasma. O Sol, assim como todas as estrelas, é na verdade um reator natural de fusão nuclear. O Tokamak é ainda caracterizado pela simetria azimutal (rotacional) e pelo uso da corrente de plasma para gerar a componente helicoidal do campo magnético, necessária para um equilíbrio estável.
+\chapter{Fundamentação Matemática}
+\section{Introdução ao Plasma}
+%livro Bittencrt fundamentos of plasmas
+%https://pt.wikipedia.org/wiki/Plasma
+O plasma é um dos estados físicos da matéria, similar ao gás, no qual certa porção das partículas é ionizada
+ (em física, núcleos atómicos, provenientes de átomos completamente ionizados, como os da radiação alfa, são habitualmente designados como partículas carregadas, a ionização é geralmente alcançada pela aplicação de elevadas energias aos átomos, seja através da aplicação de uma alta tensão elétrica ou por via de radiação de alta energia, um gás ionizado é chamado plasma).
+ A premissa básica é que o aquecimento de um gás provoca a dissociação das suas ligações moleculares, convertendo-o em seus átomos constituintes. Além disso, esse aquecimento adicional pode levar à ionização (ganho ou perda de elétrons) dessas moléculas e dos átomos do gás, transformando-o em plasma contendo partículas carregadas (elétrons e íons positivos).
+A presença de um número não desprezível de portadores de carga torna o plasma eletricamente condutor, de modo que ele responde fortemente a campos eletromagnéticos. O plasma, portanto, possui propriedades bastante diferentes das de sólidos, líquidos e gases e é considerado um estado distinto da matéria. Como o gás, o plasma não possui forma ou volume definidos, a não ser quando contido em um recipiente; diferentemente do gás, porém, sob a influência de um campo magnético ele pode formar estruturas como filamentos, raios e camadas duplas. Alguns plasmas comuns são as estrelas e placas de neônio. No universo, o plasma é o estado mais comum da matéria comum, a maior parte da qual se encontra no rarefeito plasma intergaláctico e em estrelas.
+ Langmuir escreveu:
+
+\begin{center}
+\textit{    Com exceção das proximidades dos eletrodos, onde há bainhas contendo menos elétrons, o gás ionizado contém íons e elétrons em quantidades aproximadamente iguais, de modo que a carga espacial resultante é muito pequena. Nós usaremos o nome plasma para descrever esta região contendo cargas equilibradas de íons e elétrons.}
+\end{center}
+
+Também é definido como gás no qual uma fração substancial dos átomos está ionizada. Um processo simples de ionização é aquecer o gás para que aumente o impacto eletrônico, por exemplo. Desse modo, o gás se torna o plasma quando a adição de calor ou outra forma de energia faz com que um número significante de seus átomos libere alguns ou todos os seus elétrons. Esses átomos que perdem elétrons ficam ionizados, ou seja, com uma carga positiva resultante, e os elétrons separados de seus átomos ficam livres para se mover pelo gás, interagindo com outros átomos e elétrons.
+
+Por apresentar-se num estado fluido similar ao estado gasoso, o plasma é comumente descrito ou como o "quarto estado de agregação da matéria" (os três primeiros sendo sólido, líquido e gasoso). Mas essa descrição não é muito precisa, pois a passagem de um gás para a forma de plasma não ocorre através de uma transição de fase bem definida, tal como nas transições do estado sólido para líquido e deste para gás. De todo modo, o plasma pode ser considerado como um estado distinto da matéria, caracterizado por possuir um número de partículas eletricamente carregadas que é suficiente para afetar suas propriedades e comportamento. Os plasmas são bons condutores elétricos, e suas partículas respondem fortemente a interações eletromagnéticas de grande alcance.
+
+Quando o número de átomos ionizados é relativamente pequeno, a interação entre as partículas carregadas do gás ionizado é dominada por processos colisionais, ou seja, que envolvem principalmente colisões binárias entre elas. Quando o número de partículas carregadas é substancial, a interação entre as partículas carregadas é dominada por processos coletivos, ou seja, a dinâmica de cada uma delas é determinada pelos campos elétricos e magnéticos produzidos por todas as outras partículas carregadas do meio. Neste caso, o gás ionizado passa a ser denominado plasma
+
+\subsection{Definição de um plasma} 
+
+O plasma é livremente descrito como um meio eletricamente neutro de partículas positivas e negativas (isto é, a carga total de um plasma é aproximadamente zero). É importante notar que, embora não tenham limites, essas partículas não são "livres". Quando as cargas se movem, elas geram correntes elétricas com campos magnéticos e, como resultado, cada uma é afetada pelos campos das outras. Isto determina o comportamento coletivo com muitos graus de liberdade. 
+\subsection{A aproximação de plasma} 	 
+   Partículas carregadas devem estar suficientemente próximas, de modo que cada uma influencie muitas partículas carregadas na sua vizinhança, em vez de somente interagir com a mais próxima (esses efeitos coletivos são característicos de um plasma). A aproximação de plasma é válida quando o número de portadores de carga no interior da esfera de influência (chamada de esfera de Debye, cujo raio é o comprimento de Debye) de uma partícula em particular é maior do que uma unidade, para que haja comportamento coletivo das partículas carregadas. O número médio de partículas na esfera de Debye é representado pelo parâmetro de plasma "$\lambda$" (a letra grega lambda).
+\subsection{Interações de volume} 
+   O comprimento de Debye (definido acima) é pequeno se comparado ao tamanho físico do plasma. Este critério significa que as interações no interior do plasma são mais importantes do que nas bordas, onde podem ocorrer efeitos de fronteira. Quando este critério é obedecido, o plasma é praticamente neutro.
+\subsection{Frequência de plasma} 
+    A frequência dos elétrons do plasma (medindo a oscilação da densidade dos elétrons do plasma) é alta se comparada à frequência de colisões entre elétrons e partículas neutras. Quando esta condição é válida, as interações eletrostáticas predominam sobre os processos da cinética normal dos gases.
+    Uma das manifestações fundamentais da propriedade coletiva do plasma é a oscilação de plasma. Seja um plasma em equilíbrio. Se se deslocar um elemento de cargas negativas da sua posição de equilíbrio, devido a interação coletiva de cargas da vizinhança aparece uma força restauradora proporcional ao deslocamento. O resultado é uma oscilação cuja frequência chamada frequência de plasma é expressa por:
+\begin{equation}
+    \omega_p = (\frac{4\pi n e^2}{m})^{\frac{1}{2}}
+\end{equation}
+A frequência de plasma é frequentemente utilizada como um meio de medir a densidade de um plasma. Existe uma relação entre a velocidade térmica, $v_\theta$, a frequência de plasma e o comprimento de Debye.
+\begin{equation}
+v_\theta = \lambda_D w_p
+\end{equation}
+Esta oscilação de plasma pode deixar de existir se a densidade de partículas neutras no plasma for aumentada, de modo que o tempo de colisões, $\tau$, entre a partícula carregada e a partícula neutra for inferior ao período de oscilação do plasma. Requer-se então:
+\begin{equation}
+ w_p\tau > 1 
+ \end{equation} 
+para existência desta oscilação.
+\subsection{Grau de ionização}
+	A ionização é necessária para o plasma existir. O termo "densidade do plasma" usualmente se refere à "densidade de elétrons", isto é, o número de elétrons livres por unidade de volume. O grau de ionização de um plasma é a proporção de átomos que perderam (ou ganharam) elétrons e é controlado principalmente pela temperatura. Mesmo um gás parcialmente ionizado, em que somente 1\% das partículas esteja ionizada, pode apresentar as características de um plasma, isto é, resposta a campos magnéticos e alta condutividade elétrica. O grau de ionização $\alpha$ é definido como $\alpha = n_i/(n_i + n_a)$, em que $n_i$ é a densidade de íons e $n_a$ é a densidade de átomos neutros. A densidade de elétrons está relacionada a ele pelo estado médio da carga $<Z>$ dos íons, sendo que $n_e = <Z> n_i$, em que ne é a densidade de elétrons.
+\subsection{Temperaturas}
+
+A temperatura do plasma é normalmente medida em kelvins ou elétron-volts e é, informalmente, uma medida da energia cinética térmica por partícula. Geralmente são necessárias temperaturas muito altas para sustentar a ionização, a qual é uma caraterística definidora de um plasma. O grau de ionização do plasma é determinado pela "temperatura do elétron" relativa ao potencial de ionização (e, com menos intensidade, pela densidade), numa relação chamada equação de Saha. Em baixas temperaturas, os íons e elétrons tendem a se recombinar para o seu estado ligado - átomos - e o plasma acaba se convertendo em um gás.
+
+Na maioria dos casos os elétrons estão suficientemente próximos do equilíbrio térmico, de modo que sua temperatura é relativamente bem definida, mesmo quando há um desvio significativo de uma função de distribuição de energia maxwelliana, devido, por exemplo, a radiação ultravioleta, a partículas energéticas ou a campos elétricos fortes. Por causa da grande diferente de massa, os elétrons chegam ao equilíbrio termodinâmico entre si muito mais rapidamente do que com os íons ou átomos neutros. Por esta razão, a "temperatura do íon" pode ser muito diferente (normalmente menor) da "temperatura do elétron". Isto é especialmente comum em plasmas tecnológicos fracamente ionizados, cujos íons estão frequentemente próximos à temperatura ambiente.
+
+Em função das temperaturas relativas dos elétrons, íons e partículas neutras, os plasmas são classificados como "térmicos" ou "não térmicos". Plasmas térmicos possuem elétrons e partículas pesadas à mesma temperatura, isto é, eles estão em equilíbrio térmico entre si. Plasmas não térmicos, por outro lado, possuem íons e átomos neutros a uma temperatura muito menor (normalmente temperatura ambiente), enquanto os elétrons são muito mais "quentes".
+
+Um plasma é às vezes chamado de "quente" se ele está quase totalmente ionizado, ou "frio" se apenas uma pequena fração (por exemplo, 1\%) das moléculas do gás estão ionizadas, mas outras definições dos termos "plasma quente" e "plasma frio" são comuns. Mesmo em um plasma "frio", a temperatura do elétron é tipicamente de várias centenas de graus Celsius. Os plasmas utilizados na "tecnologia de plasma" ("plasmas tecnológicos") são normalmente frios neste sentido. 
+
+\section{Função de Distribuição}
+A função distribuição, $f$, é a densidade de partículas no espaço de fase de seis dimensões, três de posição e três de velocidade. Quando o plasma esta em equilíbrio termodinâmico a função de distribuição se torna Maxwelliana, conforme o teorema-H de Boltzmann. A distribuição Maxwelliana é dada por:
+\begin{equation}
+    f(\vv{v}) = n (\frac{m}{2\pi k T})^{\frac{3}{2}}exp(\frac{-mv^2}{kT})
+\end{equation}
+onde $n$ é a densidade média de partículas no espaço de configuração, $T$ é a temperatura do plasma, $m$ é a massa de uma partícula, $\vv{v}$ é a velocidade e $k$ a constante de Boltzmann.
+Na maioria dos plasmas de laboratório o estudo é feito antes do plasma entrar em equilíbrio termodinâmico. Frequentemente estudos são feitos considerando que o plasma está em um certo equilíbrio, tais como elétrons em equilíbrio entre si a uma temperatura $T_e$ e íons em equilíbrio entre si a uma temperatura $T_i$, e investiga-se oque acontece com a distribuição a partir deste estado que se chama meta-equilíbrio.
+\subsection{Temperatura e Outros Momentos da Função de Distribuição}
+A função de distribuição é uma descrição microscópica de um plasma. Em contraste, uma descrição macroscópica de um plasma se faz pela especificação de valores médios das propriedades do plasma tais como, a densidade, a velocidade média, a pressão, a temperatura etc.
+Existem relações entre a função de distribuição e estas grandezas macroscópicas, Assim:\\
+densidade
+\begin{equation}
+    n_a = \int f_a d\vv{v}
+\end{equation}
+velocidade média
+\begin{equation}
+    \vv{V}_a = \int f_a \frac{d\vv{v}}{n_a}
+\end{equation}
+tensor de pressão
+\begin{equation}
+    \overline{\overline{P_a}} = \frac{m_a}{n_a}\int (\vv{v}-\vv{V}_a)(\vv{v}-\vv{V}_a) f_a d\vv{v}
+\end{equation}
+onde o índice $a$ indica espécie de partículas, tais como, elétrons, íons de massa $m_a$ e carga $q_a$, nêutrons de massa $m_a$, etc.
+\subsection{O Gerador Magnetohidrodinâmico}
+(Citação do livro \textbf{J. A. Bittencourt  (auth.)-Fundamentals of Plasma Physics-Springer New York (2004)} )\\
+O gerador de energia magnetohidrodinâmico (MHD) converte a energia cinética de um plasma denso que flui através de um campo magnético para
+energia elétrica. O seu princípio básico é bastante simples.
+Suponha que um plasma flua com velocidade u (ao longo da direção x) através de um campo magnético aplicado B (na direção deles). A força de Lorentz $q (u x B)$ faz com que os íons se desloquem
+para cima (na direção z) e os elétrons para baixo, de modo que, se
+trodos são colocados nas paredes do canal e conectados a um circuito externo, então uma densidade de corrente $J = uE_{ind} = uu x B$ (onde u denota condutividade do plasma e $E_{ind}$ é o campo elétrico induzido) flui através do fluxo de plasma na direção z. Essa densidade de corrente, por sua vez, produz uma densidade de força $J x B$ (na direção x), que desacelera o plasma em fluxo. O resultado líquido é a conversão de parte da energia cinética do plasma que entra no gerador em energia elétrica que pode ser aplicada a
+uma carga externa. Este processo tem a vantagem de operar sem a ineficiência de um ciclo de calor.
+\chapter{Dedução Modelo de 2 Fluidos}
+\section{Equação de Vlasov}
+Uma maneira aproximada muito útil para descrever a dinâmica de um plasma é considerar que os movimentos das partículas do plasma são governados pelos campos externos aplicados mais os campos internos médios macroscópicos, suavizados no espaço e no tempo, devido à presença e movimento de todas as partículas de plasma. O problema de obter os campos eletromagnéticos internos macroscópicos (suavizados), no entanto, ainda é complexo e requer que uma solução auto-consistente seja obtida.
+A equação de Vlasov é uma equação diferencial parcial que descreve a evolução temporal da função de \textit{distribuição} ($f_\alpha(\vv{r},\vv{v},t)$) no espaço de fase e que incorpora diretamente os campos eletromagnéticos internos macroscópicos suavizados. Pode ser obtido da equação de Boltzmann na ausencia de colisões \ref{eq: boltsmam}
+\begin{equation}
+\label{eq: boltsmam}
+\frac{\partial f_\alpha(\vv{r},\vv{v},t)}{\partial t} +\vv{v} \nabla f_\alpha(\vv{r},\vv{v},t) + a \nabla_V f_\alpha(\vv{r},\vv{v},t) = 0
+\end{equation}  
+mas incluindo os campos suavizados internos no termo de força,
+\begin{equation}
+\label{eq: vlasov}
+\frac{\partial f_\alpha(\vv{r},\vv{v},t)}{\partial t} +\vv{v} \nabla f_\alpha(\vv{r},\vv{v},t) + \frac{1}{m_\alpha}[\vv{F}_{ext}+q_0(\vv{E}_i+\vv{v} \times \vv{B}_i)] . \nabla_V f_\alpha(\vv{r},\vv{v},t)= 0
+\end{equation}
+Então \ref{eq: vlasov} é a equação de Vlasov.
+Aqui $\vv{F}_{ext}$ representa a força externa, incluindo a força de Lorentz associada a quaisquer campos elétricos e magnéticos aplicados externamente, e $\vv{E}_i$ e $\vv{B}_i$ são campos elétricos e magnéticos suavizados internos devido à presença e movimento de todas as partículas carregadas dentro do plasma. Para que os campos eletromagnéticos macroscópicos internos $\vv{E}_i$ e $\vv{B}_i$ sejam consistentes com as densidades de carga e corrente macroscópicas existentes no próprio plasma, eles devem satisfazer as equações de Maxwell.
+\begin{equation}
+\nabla \vv{E}_i = \frac{\rho}{\epsilon_o}
+\end{equation}
+\begin{equation}
+\nabla \vv{B}_i = 0
+\end{equation}
+\begin{equation}
+\nabla \times \vv{E}_i = -\frac{\partial \vv{B}_i}{\partial t}
+\end{equation}
+\begin{equation}
+\nabla \times \vv{B}_i = \mu_o (\vv{J} + \epsilon_0 \frac{\partial \vv{E}_i}{\partial t} )
+\end{equation}
+com a densidade de carga do plasma $\rho$ e a densidade de corrente do plasma $\vv{J}$ dada pelas expressões
+\begin{equation}
+\label{eq: rho}
+\rho(\vv{r},t) = \sum_\alpha q_\alpha n_\alpha(\vv{r},t) = \sum_\alpha q_\alpha \int_v f_\alpha(\vv{r},\vv{v},t) d^3v
+\end{equation}
+\begin{equation}
+\label{eq: densidadecorrente}
+\vv{J}(\vv{r},t) = \sum_\alpha q_\alpha n_\alpha(\vv{r},t) \vv{u}_\alpha(\vv{r},t) = \sum_\alpha  q_\alpha \int_v \vv{v} f_\alpha(\vv{r},\vv{v},t) d^3v
+\end{equation}
+Aqui $ \vv{u}_\alpha(\vv{r},t)$ denota a velocidade média macroscópica de cada espécie de partícula $\alpha$ que é dada por
+\begin{equation}
+\vv{u}_\alpha(\vv{r},t) = \frac{1}{n_\alpha(\vv{r},t)} \int_v \vv{v} f_\alpha(\vv{r},\vv{v},t) d^3v
+\end{equation}
+Tais equações constituem um conjunto completo de equações a serem resolvidas simultaneamente. Por exemplo, em um procedimento iterativo assumindo valores aproximados iniciais para $\vv{E}_i(\vv{r}, t)$ e $\vv{B}_i(\vv{r}, t)$, a Eq. \ref{eq: vlasov} pode ser resolvida para produzir $f_\alpha(\vv{r},\vv{v},t)$ para as várias espécies diferentes de partículas. A utilização dos valores calculados em \ref{eq: rho} e \ref{eq: densidadecorrente} leva a valores para as densidades de carga e corrente ($\rho$ e  $\vv{J}$) no plasma, que podem ser substituídas nas equações de Maxwell e resolvidas para $\vv{E}_i(\vv{r}, t)$ e $\vv{B}_i(\vv{r}, t)$. Esses valores são então conectados novamente na equação de Vlasov (Eq. \ref{eq: vlasov}), e assim por diante, para obter uma solução autoconsistente para a função de distribuição de partículas individuais. Embora a equação de Vlasov não inclua explicitamente um termo de colisão no lado direito e, portanto, não leve em consideração colisões de curto alcance, ela não é tão restritiva quanto parece, já que uma parte significativa dos efeitos do interações de partículas já foram incluídas na força de Lorentz, através dos campos eletromagnéticos suavizados auto-consistentes internos.
+\section{Momentos da distribuição}
+Não é necessário resolver a equação de Boltzmann para a função de distribuição, a fim de calcular as variáveis macroscópicas de interesse físico. Estas variáveis macroscópicas estão relacionadas com os momentos da função de distribuição e as equações de transporte podem
+ser obtido tomando os vários momentos da equação de Boltzmann. Os três primeiros momentos da equação de Boltzmann são obtidos pela multiplicação de $m_\alpha$, $m_\alpha \vv{v}_\alpha$ e $\frac{m_\alpha \vv{v}_\alpha}{2}$
+2,
+respectivamente, e integrando todo o espaço de velocidade. Seguindo estes procedimentos, obtêm-se as equações de conservação de massa, momento e energia. Seja $\chi(v)$ uma propriedade física das partículas no plasma. Agora multiplicamos cada termo da Eq \ref{eq: vlasov} por $\chi(v)$ e integramos a equação resultante sobre todo o espaço de velocidade para obter a equação como segue:
+
+\begin{equation}
+\label{eq: pit3}
+\int_V \chi \frac{\partial f_\alpha}{\partial t} d^3 v + \int_V \chi \vv{v} \cdot \nabla f_\alpha d^3 v + \int_V \chi \vv{a} \cdot \nabla_v f_\alpha d^3 v = \int_V \chi (\frac{\delta f_\alpha}{\delta t})_{coll} d^3 v
+\end{equation}
+Resolvendo cada integral separadamente,
+
+\begin{equation}
+\label{eq: pit4}
+\int_V \chi \frac{\partial f_\alpha}{\partial t} d^3 v  = \frac{\partial }{\partial t} (\int_V \chi f_\alpha d^3 v)-\int_V \frac{\partial \chi}{\partial t} f_\alpha d^3 v
+\end{equation}
+No entanto, desde que $\chi = \chi(\vv{v})$, sua derivada parcial em relação ao tempo é zero. Usando a definição de valores médios, o rendimento fica
+\begin{equation}
+\label{eq: pit5}
+\int_V \chi \frac{\partial f_\alpha}{\partial t} d^3 v = \frac{\partial}{\partial t} [n_\alpha(\vv{r},t)<\chi>_\alpha]
+\end{equation}
+
+\begin{equation}
+\label{eq: pit6}
+\int_V \chi \vv{v} \nabla f_\alpha d^3 v = \nabla \cdot ( \int_V \chi \vv{v} f_\alpha d^3 v ) - \int_V \nabla \chi \cdot \vv{v} f_\alpha d^3 v - \int_V \chi  f_\alpha \nabla \cdot \vv{v}  d^3 v
+\end{equation}
+Como visto anteriormente, $\chi = \chi(\vv{v})$, então seu gradiente é zero e as variáveis $\vv{r}$, $\vv{v}$ e $t$ são independentes, então o divergente de $\vv{v}$ também é zero, resultando em
+
+\begin{equation}
+\label{eq: pit7}
+\int_V \chi \vv{v} \cdot \nabla f_\alpha d^3 v = \nabla \cdot [n_\alpha(\vv{r},t)<\chi \vv{v}>_\alpha]
+\end{equation}
+
+\begin{equation}
+\label{eq: pit8}
+\int_V \chi \vv{a} \cdot \nabla_v f_\alpha d^3 v = \int_V \nabla_v \cdot (\vv{a} \chi f_\alpha)d^3 v - \int_V f_\alpha (\vv{a} \cdot \nabla_v \chi) d^3 v - \int_V \chi  f_\alpha (\nabla_v \cdot \vv{a})  d^3 v
+\end{equation}
+A primeira integral desaparece porque a função de distribuição deve desaparecer para $\pm \infty$. A última integral na eq \ref{eq: pit8} desaparece se assumirmos que
+
+\begin{equation}
+\label{eq: pit9}
+\nabla_v \cdot \vv{a} = \frac{1}{m_\alpha} \nabla_v \cdot \vv{F} = 0
+\end{equation}
+isto é, se o componente de força $F_j$ for independente do componente de velocidade correspondente $v_j$, uma vez que $\nabla_v \cdot \vv{F} = \sum_j \frac{\partial F_j}{\partial v_j}$. Isto é verdade para a força devido a um campo magnético, $\vv{F} = q_\alpha \vv{v} \times \vv{B}$ porque $j$ também neste caso $F_j$ é independente de $v_i$.
+
+\begin{equation}
+\label{eq: pit10}
+\int_V \chi \vv{a} \cdot \nabla_v f_\alpha d^3 v = -n_\alpha(\vv{r},t)<\vv{a} \cdot \nabla_v \chi>_\alpha
+\end{equation}
+
+\begin{equation}
+\label{eq: pit11}
+\int_V \chi ( \frac{\delta f_\alpha}{\delta t} )_{coll} d^3 v = [\frac{\delta}{\delta t}(n_\alpha(\vv{r},t)<\chi>_\alpha)]
+\end{equation}
+
+Combinando as eq \ref{eq: pit5}, eq \ref{eq: pit7}, eq \ref{eq: pit10} e eq \ref{eq: pit11} na eq \ref{eq: pit3} produzimos então,
+\begin{equation}
+\label{eq: pit12}
+\frac{\partial }{\partial t}(n_\alpha(\vv{r},t)<\chi>_\alpha) + \nabla \cdot (n_\alpha(\vv{r},t)<\chi \vv{v} >_\alpha) - n_\alpha(\vv{r},t)<\vv{a} \cdot \nabla_v \chi>_\alpha = [\frac{\delta}{\delta t}(n_\alpha(\vv{r},t)<\chi>_\alpha)]
+\end{equation}
+
+\textbf{Equação de conservação de massa}
+
+A equação de continuidade pode ser obtida tomando $\chi$ igual a massa. Assim, definindo $ \rho_{m\alpha} = n_\alpha m_\alpha$ como densidade de massa, a substituição nos dá
+
+\begin{equation}
+\label{eq: pit13}
+\frac{\partial \rho_{m\alpha}}{\partial t} + \nabla \cdot (\rho_{m\alpha} \vv{u}_\alpha)  = S_\alpha 
+\end{equation}
+
+onde o termo de colisão, $S_\alpha = \left[\frac{\delta \rho_{m\alpha}}{\delta t}\right]_{coll}$, representa a taxa na qual partículas do tipo $\alpha$ são produzidas ou perdidas, por unidade de volume, como resultado de colisões.
+
+\textbf{Equação de Conservação Momento}
+
+Para derivar a equação de conservação de momento, substituímos $\chi (\vv{v})$ pela velocidade vezes a massa. Tome $\vv{v} = \vv{c}_\alpha + \vv{u}_\alpha$, onde $\vv{c}_\alpha$ é a velocidade média térmica das partículas e a velocidade média de movimento toroidal $\vv{u}_\alpha$. Vamos resolver cada quantidade da eq \ref{eq: pit3}
+individualmente.
+
+\begin{equation}
+\label{eq: pit14}
+\frac{\partial }{\partial t} (n_\alpha <\chi>_\alpha) = \frac{\partial }{\partial t} (\rho_{m\alpha} \vv{u}_\alpha) = \vv{u}_\alpha \frac{\partial \rho_{m\alpha}}{\partial t}+\rho_{m\alpha} \frac{\partial \vv{u}_\alpha}{\partial t}
+\end{equation} 
+\begin{equation}
+\label{eq: pit15}
+\nabla \cdot (n_\alpha <\chi \vv{v}>_\alpha) = \nabla \cdot (\rho_{m\alpha} <\vv{v} \cdot \vv{v}>) = \nabla \cdot ( \rho_{m\alpha}\vv{u}_\alpha \cdot \vv{u}_\alpha + \rho_{m\alpha}<\vv{c}_\alpha \cdot \vv{c}_\alpha>)
+\end{equation} 
+$\vv{c} \cdot \vv{u} = 0$ pois c vai em todas as direções então não contribui com a velocidade
+\begin{equation}
+\label{eq: pit16}
+n_\alpha <\vv{a} \cdot \nabla_v \chi> = n_\alpha<(m_\alpha \vv{a} \cdot \nabla_v) \vv{v}> = n <\vv{F} \cdot \nabla_v)\vv{v}>=n_\alpha<\vv{F}>_\alpha
+\end{equation}
+\begin{equation}
+\label{eq: pit17}
+R_\alpha = \left[\frac{\delta}{\delta t}(n_\alpha<\chi>_\alpha)\right]_{Scattering}=\left[\frac{\delta}{\delta t}(\rho_{m\alpha}\vv{u}_\alpha)\right]_{Scattering}
+\end{equation}
+\begin{equation}
+\label{eq: pit18}
+\mathcal{R}_\alpha = \left[\frac{\delta}{\delta t}(n_\alpha<\chi>_\alpha)\right]_{Source} = \left[\frac{\delta}{\delta t}(\rho_{m\alpha}\vv{u}_\alpha)\right]_{Source} 
+\end{equation}
+onde $R_\alpha$ denota a taxa de mudança de momento devido ao espalhamento e $\mathcal{R}_\alpha$ denota a taxa de mudança de momento devido à produção de partículas de plasma. A substituição na eq \ref{eq: pit12} produz
+
+\begin{equation}
+\label{eq: pit19}
+\vv{u}_\alpha \frac{\partial \rho_{m\alpha}}{\partial t} + \rho_{m\alpha} \frac{\partial \vv{u}_\alpha}{\partial t}+ \nabla \cdot (\rho_{m\alpha} \vv{u}_\alpha \vv{u}_\alpha)+ \nabla \cdot (\rho_{m\alpha} <\vv{c}_\alpha \cdot \vv{c}_\alpha>)-n_\alpha<\vv{F}>_\alpha=R_\alpha + \mathcal{R}_\alpha
+\end{equation}
+Aqui, o tensor $\mathbb{P}_\alpha=\rho_{m\alpha} <\vv{c}_\alpha \cdot \vv{c}_\alpha>$ representa a força por unidade de volume dentro do plasma devido aos movimentos de partículas aleatórias. Usando isso
+
+\begin{equation}
+\label{eq: pit20}
+\nabla \cdot (\rho_{m\alpha} \vv{u}_\alpha \vv{u}_\alpha) =  \rho_{m\alpha}(\vv{u}_\alpha \cdot \nabla)\vv{u}_\alpha + [\nabla \cdot (\rho_{m\alpha} \vv{u}_\alpha)]\vv{u}_\alpha
+\end{equation}
+Trabalhando com a força de Lorentz, substituindo os resultados obtidos na eq \ref{eq: pit19}
+
+\begin{equation}
+\label{eq: pit21}
+ \vv{u}_\alpha \frac{\partial \rho_{m\alpha}}{\partial t} + \rho_{m\alpha} \frac{\partial \vv{u}_\alpha}{\partial t}+ \rho_{m\alpha} (\vv{u}_\alpha \cdot \nabla)\vv{u}_\alpha+[\nabla \cdot (\rho_{m\alpha} \vv{u}_\alpha)]\vv{u}_\alpha  =
+\end{equation}
+
+\begin{equation*}
+n_\alpha q_\alpha (\vv{E} + \vv{u}_\alpha \times \vv{B})-\nabla \cdot \mathbb{P}_\alpha + R_\alpha + \mathcal{R}_\alpha
+\end{equation*}
+
+rearanjando
+
+\begin{equation}
+\label{eq: pit22}
+\rho_{m\alpha} \left[\frac{\partial \vv{u}_\alpha}{\partial t} + (\vv{u} \cdot \nabla)\vv{u}_\alpha \right]+ \vv{u}_\alpha \left[ \frac{\partial \rho_{m\alpha}}{\partial t} + \nabla \cdot (\rho_{m\alpha} \vv{u}_\alpha)  \right] = R_\alpha + \mathcal{R}_\alpha +n_\alpha q_\alpha (\vv{E} + \vv{u}_\alpha \times \vv{B})-\nabla \cdot \mathbb{P}_\alpha 
+\end{equation}
+No entanto, o segundo termo no lado esquerdo da eq \ref{eq: pit22} é a equação de conservação de massa, portanto, podemos reduzir a equação para
+\begin{equation}
+\label{eq: pit23}
+\rho_{m\alpha} \left[\frac{\partial \vv{u}_\alpha}{\partial t} + (\vv{u} \cdot \nabla)\vv{u}_\alpha \right] =  R_\alpha + \mathcal{R}_\alpha +n_\alpha q_\alpha (\vv{E} + \vv{u}_\alpha \times \vv{B})-\nabla \cdot \mathbb{P}_\alpha 
+\end{equation}
+Esta equação afirma que a taxa de mudança de tempo do momento médio em cada elemento fluido ($\alpha$), é devido às forças externas aplicadas no fluido, mais a força de pressão do próprio fluido, mais as forças internas devido a colisões (dispersão e produção de partículas de plasma).
+
+%onde $A_\alpha$ denota a taxa de mudança de momento devido a colisões. Substituindo na eq \ref{eq: pit3} rende,
+
+\textbf{Equação de conservação de energia}
+
+Para derivar a equação de transporte de energia, substituímos $\chi(\vv{v})$ pela energia cinética das partículas na equação geral de transporte. Tendo $\chi(\vv{v}) = \frac{1}{2}m_\alpha v^2$, as quantidades da equação \ref{eq: pit12} de transporte serão
+\begin{equation}
+\label{eq: pit24}
+\frac{\partial}{\partial t}(n_\alpha<\chi>_\alpha)=\frac{\rho_{m\alpha}}{2}<v^2> =\frac{\rho_{m\alpha}}{2}<\vv{c}_\alpha \cdot \vv{c}_\alpha> + \frac{\rho_{m\alpha}}{2} u^2_\alpha 
+\end{equation}
+Em geral, se a velocidade aleatória não for isotrópica, então $\rho_{m\alpha}<c^2_\alpha>=3p_\alpha$. Dessa forma, a eq \ref{eq: pit24} se torna
+
+\begin{equation}
+\frac{\partial }{\partial t}(n_\alpha<\chi>_\alpha)=\frac{1}{2}(3p_\alpha+\rho_{m\alpha} u^2_\alpha)
+\end{equation}
+\begin{equation}
+\nabla \cdot (n_\alpha<\chi \vv{v} >_\alpha) = \nabla \cdot \left[ \frac{\rho_{m\alpha}}{2}<(\vv{v} \cdot \vv{v})\vv{v}>_\alpha \right]
+\end{equation}
+\begin{equation}
+n_\alpha <\vv{a} \cdot \nabla_v \chi>_\alpha = n_\alpha<\frac{\vv{F}}{m_\alpha} \cdot \nabla_v \left( \frac{m_\alpha v^2}{2}\right)>_\alpha = n_\alpha <\vv{F} \cdot \vv{v}>_\alpha
+\end{equation}
+A equação de conservação de energia pode ser escrita de uma forma alternativa usando o tensor de pressão cinética $\mathbb{P}_\alpha = \rho_{m\alpha}<\vv{c}_\alpha \cdot \vv{c}_\alpha>$ e fluxo de calor $\vv{q}_\alpha = \frac{1}{2} \rho_{m\alpha} <c^2_\alpha  \vv{c}_\alpha>$. Tomando $\vv{v} = \vv{u}_\alpha + \vv{c}_\alpha$, e calculando os valores médios de $<(\vv{v}_\alpha \cdot \vv{v}_\alpha) \vv{c}_\alpha>_\alpha$ e $<\vv{F} \cdot \vv{v}>_\alpha$, obtém-se
+\begin{equation}
+\frac{3}{2} \left( \frac{\partial p_\alpha}{\partial t} + \vv{u}_\alpha \cdot \nabla p_\alpha\right)+ \frac{3}{2} p_\alpha (\nabla \cdot \vv{u}_\alpha)+(\mathbb{P}_\alpha \cdot \nabla)\cdot \vv{u}_\alpha + \nabla \cdot \vv{q}_\alpha =  
+\end{equation}
+\begin{equation*}
+= Q_\alpha + \mathcal{E}_\alpha-\vv{u}_\alpha \cdot \vv{R}_\alpha - \vv{u}_\alpha \cdot \mathcal{R}_\alpha+\frac{1}{2}u^2_\alpha S_\alpha
+\end{equation*}
+onde $Q_\alpha$ e $\mathcal{E}_\alpha$ representam a taxa de variação da densidade de energia devido ao espalhamento e produção de partículas de plasma,
+
+\begin{equation}
+Q_\alpha = \left[ \frac{\delta}{\delta t}(n_\alpha<\chi>_\alpha) \right]_{Scattering} = \left[ \frac{\delta}{\delta t}\left( \frac{1}{2} \rho_{m\alpha} u^2_\alpha \right) \right]_{Scattering}
+\end{equation}
+
+\begin{equation}
+\mathcal{E}_\alpha = \left[ \frac{\delta}{\delta t}(n_\alpha<\chi>_\alpha) \right]_{Source} = \left[ \frac{\delta}{\delta t}\left( \frac{1}{2} \rho_{m\alpha} u^2_\alpha \right) \right]_{Source}
+\end{equation}
+\chapter{O Modelo para 2 Fluidos}
+\section{O Sistema de Equações que Deve Ser Implementado}
+A física dos plasmas é geralmente descrita com duas teorias: a teoria cinética e a teoria dos fluidos. Enquanto uma teoria cinética descreve a evolução da função de distribuição, a teoria de fluidos descreve a evolução de variáveis fluidas que são obtidas tomando-se momentos da equação cinética que descreve a evolução de $f_\alpha(\vv{r},\vv{v},t)$. Por um lado, a teoria dos fluidos não prevê instabilidades de espaço-fase, como a teoria cinética, mas, por outro lado, tem a vantagem de ser muito mais simples de trabalhar do que a teoria cinética, e ainda fornecer explicações excelentes para a maioria das fenômenos de plasma tokamak.\\
+Começando pela notação:\\
+$\vv{B}(\vv{r})$ é o vetor campo magnetico, usaremos os campos como estáveis\\
+$\vv{E}(\vv{r})$ é o campo elétrico\\
+$\vv{J}(\vv{r},t)$ é vetor densidade de corrente\\
+$v_{ionz}$ é a taxa de ionização\\
+$v_{loss}$ é a taxa de perda de elétrons\\
+$n_{\alpha} = \int{f_\alpha(\vv{r},\vv{v},t)}d\vv{v}$ densidade númerica da particula da espécie $\alpha$\\
+$\vv{u}_{\alpha} = \frac{1}{n(\vv{r},t)} \int_V{\vv{v} f_{\alpha}(\vv{r},\vv{v},t) d^3v}$ é a velocidade média das partículas em $v$\\
+$n_i$ é a densidade númerica de íons\\
+$n_e$ é a densidade númerica de elétrons\\
+$m_\alpha$ massa da espécie de partícula $\alpha$\\
+$\alpha_a$ é o 1º coeficiente de Townsend para a espécie de particula $\alpha$ \\
+$\tau_p$ é o tempo de confinamento da partícula\\
+$f_\alpha(\vv{r},\vv{v},t)$ é a função densidade númerica.\\
+$\rho(\vv{r},t)$ é a densidade de carga\\
+$Q_\alpha$ representa a taxa de mudança de densidade de energia devido ao espalhamento\\
+$\mathcal{E}_\alpha$ é a produção de partículas de plasma\\
+ $\mathbb{P}_\alpha = \rho_{m\alpha}<\vv{c}_\alpha \cdot \vv{c}_\alpha>$ é o tensor de pressão cinética\\ 
+$\vv{q}_\alpha = \frac{1}{2} \rho_{m\alpha} <c^2_\alpha  \vv{c}_\alpha>$ é o fluxo de calor \\
+$D_e$, $D_i$, $D$ sendo os coeficientes de difusão de partículas. \\
+$p(\vv{r},t)$ é o escalar de pressão\\
+$e$ é  carga elementar do eletron\\
+$\eta$ sendo a resistividade paralela do Spitzer\\
+$\vv{R}_\alpha$ termo de troca de momento\\
+$R_\alpha$ denota a taxa de mudança de momento devido ao espalhamento\\
+$\mathcal{R}_\alpha$ denota a taxa de mudança de momento devido à produção de partículas de plasma.
+\\
+Operadores diferenciais:
+\begin{equation*}
+\nabla = \hat{e}_x \frac{\partial}{\partial X} + \hat{e}_y \frac{\partial}{\partial Y} + \hat{e}_z \frac{\partial}{\partial Z}
+\end{equation*}
+
+\begin{equation*}
+\nabla^2 = \hat{e}_x \frac{\partial^2}{\partial X^2} + \hat{e}_y \frac{\partial^2}{\partial Y^2} + \hat{e}_z \frac{\partial^2}{\partial Z^2}
+\end{equation*}
+
+\begin{equation*}
+\nabla_V = \hat{e}_x \frac{\partial}{\partial V_x} + \hat{e}_y \frac{\partial}{\partial V_y} + \hat{e}_z \frac{\partial}{\partial V_Z}
+\end{equation*}
+
+
+Primeiramente \textbf{assumimos} $n_e = n_i = n_0$ onde $n_0$ é a densidade eletronica em $t = 0$.
+
+Para modelar o Breakdown do plasma no tokamak Nova-Furg, usaremos um modelo de dois fluidos. Assumiremos que o plasma é composto por um fluido de elétrons e um único fluido ionizado, ambos sendo incompressíveis, $\nabla \vv{u}_{\alpha} = 0$,  um fluido ideal que não possua viscosidade $\mathbb{P}_{\alpha} = p_{\alpha}$, quase neutro $n_e = n_i = n$, e adiabático $\nabla \vv{q}_{\alpha} = 0$, ou seja, as escalas de tempo envolvidas são muito curtas para ocorrer a difusão de calor, portanto o processo sera considerdo adiabático e o transporte de energia é predominantemente convectivo. Para melhorar a estabilidade numérica, vamos considerar o fluxo total de partículas a ser composto por um termo convectivo e difusivo, isto é, $\Gamma=n\vv{u}_{\alpha}-D_{\alpha} \nabla n$ com $D_e = D_i = D$ sendo o coeficiente de difusão de partículas. Além do que, além do mais,
+Vamos supor também que o gás neutro esteja em repouso e à temperatura ambiente. Portanto, os termos de momento e fonte de energia devido à produção de partículas de plasma $\mathcal{R}_{\alpha}$ e $\mathcal{E}_{\alpha}$ não contribuem para o momento e conteúdo térmico do plasma. Com essas suposições,
+o conjunto de equações consideradas neste modelo são:
+
+\begin{equation}
+\frac{\partial n}{\partial t} + \nabla \cdot (n \vv{u}_\alpha) = \frac{S_\alpha}{m_\alpha}+D\nabla^2 n
+\end{equation}
+\begin{equation}
+m_\alpha n \left[ \frac{\partial \vv{u}_\alpha}{\partial t} + (\vv{u}_\alpha \cdot \nabla)\vv{u}_\alpha \right] =  q_\alpha n (\vv{E}+\vv{u}_-\alpha \times \vv{B}) - \nabla p_\alpha + \vv{R}_\alpha - \vv{u}_\alpha S_\alpha 
+\end{equation}
+\begin{equation} 
+\frac{3}{2} \left( \frac{\partial p_\alpha}{\partial t} + \vv{u}_\alpha \cdot \nabla p_\alpha \right) =Q_\alpha -\vv{u}_\alpha \cdot \vv{R}_\alpha \frac{1}{2} u^2_\alpha S_\alpha
+\end{equation}
+Aqui, vamos supor que o termo de troca de momento $\vv{R}_\alpha$ pode ser modelado por
+\begin{equation}
+\vv{R}_\alpha = m_\alpha n \sum_\rho  \mu_{\alpha \rho}(\vv{u}_\alpha - \vv{u}_\rho)
+\end{equation}
+e portanto,
+\begin{equation}
+\vv{R}_e = m_e n \nu_{en}\vv{u}_e+ne\eta \vv{J}
+\end{equation}
+\begin{equation}
+\vv{R}_i = m_i n \nu_{in}\vv{u}_i+ne\eta \vv{J}
+\end{equation}
+com $\eta$ sendo a resistividade paralela do Spitzer, e que os termos de troca de elétrons e de íons podem ser modelados por
+\begin{equation}
+\vv{Q}_e = -\vv{Q}_i = -\frac{3ne^2}{m_i} \eta (p_e-p_i)
+\end{equation}
+\\
+O conjunto final de equações que devem ser resolvidas é então\\
+equações de conservação de massa
+\begin{equation}
+\label{eq: pit1}
+\frac{\partial n}{\partial t} + \nabla.(n \vv{u}_e) = \frac{S_e}{m_e}+D\nabla^2 n
+\end{equation}
+\begin{equation} 
+\label{eq: pit2}
+\frac{\partial n}{\partial t} + \nabla.(n \vv{u}_i) = \frac{S_i}{m_i}+D\nabla^2 n
+\end{equation}
+equações de conservação de momento
+%eletron
+\begin{equation}
+[\frac{\partial \vv{u}_e}{\partial t} + (\vv{u}_e . \nabla)\vv{u}_e] = - \frac{e}{m_e} (\vv{E}+\vv{u}_e \times \vv{B}) - \frac{\nabla p_e}{m_e n} - (\nu_{en}+\frac{S_e}{m_e n})\vv{u}_e + \frac{e}{m_e}\eta \vv{J} 
+\end{equation}
+%ion
+\begin{equation}
+[\frac{\partial \vv{u}_i}{\partial t} + (\vv{u}_i . \nabla)\vv{u}_i] = - \frac{e}{m_i} (\vv{E}+\vv{u}_i \times \vv{B}) - \frac{\nabla p_i}{m_i n} - (\nu_{in}+\frac{S_i}{m_i n})\vv{u}_i + \frac{e}{m_i}\eta \vv{J} 
+\end{equation}
+equações de energia do eletron
+\begin{equation}
+\frac{3}{2} (\frac{\partial p_e}{\partial t} + \vv{u}_e . \nabla p_e) = -\frac{3ne^2}{m_i} \eta(p_e-p_i)-ne\eta \vv{u}_e.\vv{J}+(2 \nu_{en} + \frac{S_e}{m_e n} )\frac{1}{2}m_en{u_e}^2
+\end{equation}
+
+\begin{equation}
+\frac{3}{2} (\frac{\partial p_i}{\partial t} + \vv{u}_i . \nabla p_i) = -\frac{3ne^2}{m_i} \eta(p_e-p_i)-ne\eta \vv{u}_i.\vv{J}+(2 \nu_{in} + \frac{S_i}{m_i n} )\frac{1}{2}m_in{u_i}^2
+\end{equation}
+
+Suponhamos agora que, durante a fase inicial, os íons podem ser considerados em repouso ($\vv{u}_i = 0$) e, portanto, podemos remover a equação de conservação do momento iônico. Vamos também adicionar as equações Eq. \ref{eq: pit1} e Eq. \ref{eq: pit2}. Para isso, teremos que definir um termo de fonte de partículas que explique o número de partículas em si em vez da massa de partículas: $\zeta_\alpha = S_\alpha / m_\alpha$. Note que para um plasma ionizado sozinho, podemos dizer que $\zeta_e = \zeta_i = \zeta = n(\nu_{ion} - \nu_{loss})$. Também assumiremos que $\nu_{ion} = \alpha_T u_e = \alpha_T J / (ne)$ e $v_{loss} = u_{e, ||} / L_{eff} = \vv{J}.\vv{B} (Bne)$. Aqui, $\alpha_T$ é o primeiro coeficiente de Townsend. Com todas essas suposições, o conjunto de equações simplifica para
+\begin{equation}
+\frac{\partial n}{\partial t} = \nu_{ion} - \nu_{loss}+D\nabla^2n
+\end{equation}
+
+\begin{equation}
+m_e[\frac{\partial \vv{u}_e}{\partial t} + (\vv{u}_e . \nabla)\vv{u}_e] = - e (\vv{E}+\vv{u}_e \times \vv{B}) - \frac{\nabla p_e}{n} -(\nu_{en}+\nu_{ion}-\nu_{loss})m_e \vv{u}_e+ e\eta \vv{J} 
+\end{equation}
+
+\begin{equation}
+\frac{3}{2} (\frac{\partial p_e}{\partial t} + \vv{u}_e . \nabla p_e) = -\frac{3ne^2}{m_i} \eta(p_e-p_i)-ne\eta \vv{u}_e.\vv{J}+(2 \nu_{en} + \nu_{ion} - \nu_{loss} )\frac{1}{2}m_en{u_e}^2
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_i}{\partial t} = \frac{2ne^2}{m_i}\eta(p_e-p_i)
+\end{equation}
+Vamos agora reescrever este conjunto de equações em termos da densidade de corrente
+\begin{equation}
+\frac{\partial n}{\partial t} = \nu_{ion} - \nu_{loss}+D\nabla^2n
+\end{equation}
+
+\begin{equation}
+\frac{\partial \vv{J}}{\partial t} =  \frac{ne^2}{m_e} \vv{E} -\vv{J}(\nu_{in}+\nu_{en}+\nu_{ion}-\nu_{loss}) -\frac{e}{m_e}\vv{J} \times \vv{B}+\frac{e}{m_e}\nabla p_e 
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_e}{\partial t} = \frac{3}{2}(1+\frac{2 \nu_{en} + \nu_{ion} - \nu_{loss}}{2\nu_{ei}})\eta J^2  -\frac{2ne^2}{m_i} \eta (p_e-p_i)
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_i}{\partial t} = \frac{2ne^2}{m_i}\eta(p_e-p_i)
+\end{equation}
+
+Além dessas equações, devemos incluir equações para os campos eletromagnéticos. Vamos separar os campos em um componente gerado pelas correntes que fluem em bobinas fora do plasma e outro causado pelo plasma, ou seja, $\vv{E} = \vv{E}_{ext} + \vv{E}_{pl}$ e $\vv{B} = \vv{B}_{ext} + \vv{B}_{pl}$. O campo magnético aplicado externamente é produzido por um conjunto de bobinas específicas fora do plasma e possui componentes poloidais e toroidais. O campo toroidal tem uma dependência $1 / R$, enquanto o campo poloidal tem um padrão quadrupolo,
+\begin{equation}
+\vv{B}_{ext}=\vv{B}_{pol}^{quadrupole}+\frac{R_0B_0}{R\hat{e}_{\phi}}
+\end{equation}
+O campo elétrico aplicado externamente é produzido pelo solenóide central do tokamak, que induz uma voltagem de loop toroidal, $V_{loop}$. O campo elétrico externo é então dado por
+\begin{equation}
+\vv{E}_{ext} = \frac{V_{loop}}{2\pi R} \hat{e}_{\phi}
+\end{equation}
+O campo eletromagnético gerado pelo plasma é calculado via
+\begin{equation}
+\nabla A_{pl}=-u_0\vv{J}
+\end{equation}
+onde $A_{pl}$ é o vetor de potencial magnético devido ao plasma. O campo eletromagnético então segue de
+\begin{equation}
+B_{pl} = \nabla \times A_{pl}
+\end{equation}
+
+\begin{equation}
+E_{pl}=-\frac{\partial A_{pl}}{\partial t}
+\end{equation}
+Além dessas equações, devemos incluir equações para os campos eletromagnéticos. Vamos separar os campos em um componente gerado pelas correntes que fluem em bobinas fora do plasma e outro causado pelo plasma, ou seja, $\vv{E} = \vv{E}_{ext} + \vv{E}_{pl}$ e $\vv{B} = \vv{B}_{ext} + \vv{B}_{pl}$. O campo magnético aplicado externamente é produzido por um conjunto de bobinas específicas fora do plasma e possui componentes poloidais e toroidais. O campo toroidal tem uma dependência $1 / R$, enquanto o campo poloidal tem um padrão quadrupolo,
+\begin{equation}
+\vv{B}_{ext}=\vv{B}_{pol}^{quadrupole}+\frac{R_0B_0}{R\hat{e}_{\phi}}
+\end{equation}
+O campo elétrico aplicado externamente é produzido pelo solenóide central do tokamak, que induz uma voltagem de loop toroidal, $V_{loop}$. O campo elétrico externo é então dado por
+\begin{equation}
+\vv{E}_{ext} = \frac{V_{loop}}{2\pi R} \hat{e}_{\phi}
+\end{equation}
+O campo eletromagnético gerado pelo plasma é calculado via
+\begin{equation}
+\nabla A_{pl}=-u_0\vv{J}
+\end{equation}
+onde $A_{pl}$ é o vetor de potencial magnético devido ao plasma. O campo eletromagnético então segue de
+\begin{equation}
+B_{pl} = \nabla \times A_{pl}
+\end{equation}
+
+\begin{equation}
+E_{pl}=-\frac{\partial A_{pl}}{\partial t}
+\end{equation}
+
+Usando coordenadas cilíndricas $[R,\theta,Z]$\\
+\begin{equation}
+\frac{\partial}{\partial \Theta} = 0
+\end{equation}
+\begin{equation}
+\nabla \cdot p_e = \frac{\partial p_e}{\partial R}\hat{e}_R + \frac{1}{R}\frac{\partial p_e}{\partial \Theta} \hat{e}_\Theta+\frac{\partial p_e}{\partial Z} \hat{e}_Z 
+\end{equation}
+
+\begin{equation}
+\nabla^2 \cdot n = \frac{\partial^2 n}{\partial R^2} + \frac{1}{R}\frac{\partial n}{\partial R}+\frac{1}{R^2} \frac{\partial^2 n}{\partial \Theta^2} + \frac{\partial^2 n}{\partial Z^2}
+\end{equation}
+
+Temos então o sistema:
+
+\begin{equation}
+\frac{\partial n}{\partial t} = \nu_{ion} - \nu_{loss}+D\nabla^2n
+\end{equation}
+
+\begin{equation}
+\frac{\partial \vv{J}}{\partial t} =  \frac{ne^2}{m_e} \vv{E} -\vv{J}(\nu_{in}+\nu_{en}+\nu_{ion}-\nu_{loss}) -\frac{e}{m_e}\vv{J} \times \vv{B}+\frac{e}{m_e}\nabla p_e 
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_e}{\partial t} = \frac{3}{2}(1+\frac{2 \nu_{en} + \nu_{ion} - \nu_{loss}}{2\nu_{ei}})\eta J^2  -\frac{2ne^2}{m_i} \eta (p_e-p_i)
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_i}{\partial t} = \frac{2ne^2}{m_i}\eta(p_e-p_i)
+\end{equation}
+\chapter{Implementação}
+\section{Introdução ao Matlab}
+Para plotar o campo vetorial e curvas de niveis do campo magnetico de uma carga postiforme localizada na origem (em $(0,0)$) no Matlab fazemos da seguinte maneira:
+\begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+[X,Y] = meshgrid(1:.01:2);
+Z = 10./(X.^2 + Y.^2);
+[DX,DY] = gradient(Z,.005,.005);
+hold on
+contour(X,Y,Z,20)
+quiver(X,Y,DX,DY)
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+
+que resulta na segunta figura:
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.7]{../Rascunho_Resumo/figuraexemplo.png} 
+\caption{campo carga pontiforme - 1º quadrante}
+\label{Rotulo}
+\end{figure}
+Outra forma de plotar:
+\begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+
+l=-1.05:0.1:1.05; %vetor principal
+[X,Y] = meshgrid(l); %grid para plotar circulo
+Z = 1./sqrt(X.^2 + Y.^2);
+
+[x,y] = meshgrid(l);  %grid para plotar o campo vetorial
+u=-cos(x).*sin(y)./sqrt(X.^2 + Y.^2)
+v=cos(y).*sin(x)./sqrt(X.^2 + Y.^2)
+hold on
+quiver(x,y,u,v)
+contour(x,y,Z)
+%plotar um circulo:
+X = -1:0.01:1;
+y1 = sqrt(1-X.^2);
+plot(X,y1,X,-y1)
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.3]{../Rascunho_Resumo/campo.png}
+\caption{campo carga pontiforme}
+\label{Rotulo}
+\end{figure}
+ Plotando com as linhas de convergencia e campos lineares de fio infinito nos 4 lados:
+\begin{flushleft}
+ \begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+x = -1.05:0.1:1.05;
+z = x;
+y = -1.05:0.1:2.05;
+[X,Y,Z] = meshgrid(x,y,z);
+F=10./sqrt(X.^2+Y.^2+Z.^2);
+F2=10./sqrt(X.^2+(Y-1).^2+Z.^2);
+F3=10./sqrt((X+0.5).^2+(Y+0.2).^2+(Z-0.2).^2);
+[DX,DY,DZ] = gradient(F+F2-F3,.05,.05,.05);
+quiver3(X,Y,Z,DX,DY,DZ)
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.3]{../Rascunho_Resumo/campo certo.png} 
+\caption{campo carga pontiforme no interior de 4 campos lineares de fio infinito}
+
+\end{figure}
+\end{flushleft}
+
+
+\section{Modelo de 2 Fluidos}
+Duvida - preciso organizar, e decidir pontos de como fazer o código e suas condições iniciais.\\
+Usando coordenadas cilíndricas $[R,\theta,Z]$\\
+\begin{equation}
+\frac{\partial}{\partial \Theta} = 0
+\end{equation}
+\begin{equation}
+\nabla \cdot p_e = \frac{\partial p_e}{\partial R}\hat{e}_R + \frac{1}{R}\frac{\partial p_e}{\partial \Theta} \hat{e}_\Theta+\frac{\partial p_e}{\partial Z} \hat{e}_Z 
+\end{equation}
+
+\begin{equation}
+\nabla^2 \cdot n = \frac{\partial^2 n}{\partial R^2} + \frac{1}{R}\frac{\partial n}{\partial R}+\frac{1}{R^2} \frac{\partial^2 n}{\partial \Theta^2} + \frac{\partial^2 n}{\partial Z^2}
+\end{equation}
+
+
+Função Breakdown - Rotina principal - Cógido criado pelo professor Gustavo, editado neste projeto.\\
+No código a primeira coluna é representada, respectivamente, pelo elemento da segunda coluna\\
+Pressão cinética\\
+$p_e(\vv{r},t) : \left[ \frac{Newton}{Area} \right]$ - "pe"\\
+$p_i(\vv{r},t) : \left[ \frac{Newton}{Area} \right]$ - "pi"\\
+Taxas de ionização, perda, criação de elétrons\\
+$v_{en} : \left[ \frac{1}{segundo} \right]$ - "v\_ en"\\
+$v_{ion} : \left[ \frac{1}{segundo} \right]$ - "v\_ ion"\\
+$v_{loss} : \left[ \frac{1}{segundo} \right]$ - "v\_ loss"\\
+Densidade de corrente\\
+$\vv{J}(\vv{r},t) : \left[ \frac{Ampere}{(metro)^3} \right]$ - "Jr"\\
+Densidade númerica de párticulas\\
+$n(\vv{r},t) : \left[ \frac{1}{(metro)^3} \right]$ - "n"\\
+Campos elétricos e magnéticos\\
+$\vv{E}(\vv{r}) : \left[ \frac{Newton}{Coulonb} \right]$ - E\\
+$\vv{B}(\vv{r}) : \left[ Tesla \right]$ - B\\
+Resistividade de Sptizer\\
+$\eta$ - \\
+10 variaveis constituiem 4 equações em 7 dimenções (3 de espaço, 3 de velocidade e a de tempo)
+
+\begin{equation}
+\frac{\partial n}{\partial t} = \nu_{ion} - \nu_{loss}+D\nabla^2n
+\end{equation}
+
+\begin{equation}
+\frac{\partial \vv{J}}{\partial t} =  \frac{ne^2}{m_e} \vv{E} -\vv{J}(\nu_{in}+\nu_{en}+\nu_{ion}-\nu_{loss}) -\frac{e}{m_e}\vv{J} \times \vv{B}+\frac{e}{m_e}\nabla p_e 
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_e}{\partial t} = \frac{3}{2}(1+\frac{2 \nu_{en} + \nu_{ion} - \nu_{loss}}{2\nu_{ei}})\eta J^2  -\frac{2ne^2}{m_i} \eta (p_e-p_i)
+\end{equation}
+
+\begin{equation}
+\frac{\partial p_i}{\partial t} = \frac{2ne^2}{m_i}\eta(p_e-p_i)
+\end{equation}
+
+\begin{flushleft}
+\begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+  
+function breakdown
+
+%% Input
+Ntime = 1000;
+dt = 1e-7;
+R0 = 0.62;
+B0 = 1.07;
+Vloop = 7;
+p0 = 0.005;
+n0 = 1e4;
+Te0 = 0.026;
+gas = 'H2';
+
+% Loading Green's functions table and plasma poloidal flux distribution
+load('/home/kevi/greens_table/greens_table/green_table_65x65.mat');
+
+% Initializing physical constants and matrices
+e = 1.6e-19;
+me = 9.11e-31;
+mi = 1.67e-27;
+[zg,rg] = meshgrid(z,r); dr = mean(diff(r)); dz = mean(diff(z));
+Br   = zeros(size(rg)); Bz = Br;
+n   = n0*ones(size(rg,1),size(rg,2),Ntime+1); pe = e*n*Te0; pion = pe;
+Jr = ones(size(rg,1),size(rg,2),Ntime+1); Jz = Jr; Jphi = Jr;
+
+% Current moments
+Iq   = [1 1 0 0 0 0 -1 -1 -0.6 -0.6 0.6 0.6 0]*1e4;  % Quadrupole field
+
+% Computing quadrupole and toroidal magnetic and electric fields
+for icoil = 1:length(Iq)
+    eval(['Br = Br + F' num2str(icoil) '.BR*Iq(' num2str(icoil) ');'])
+    eval(['Bz = Bz + F' num2str(icoil) '.BZ*Iq(' num2str(icoil) ');'])
+end
+Bphi = R0*B0./rg;
+Ephi = Vloop/2/pi./rg;
+
+% Computing quadrupole and toroidal magnetic and electric fields
+out = resistivity(n0,Te0,1);
+a = first_townsend_coeff(p0,Ephi,gas,0);
+Leff = R0*B0./(0.001+(Br.^2 + Bz.^2).^0.5);
+rho = out.eta_par;
+v_en = 7.89e11*p0;
+v_ion = 0;
+v_loss = 0;
+v_ei = out.v_ei;
+
+for it = 1:Ntime
+    %keyboard
+    % Electron pressure gradient
+    [dpedr,dpedz] = gradient(pe(:,:,it).',dr,dz);
+	dpedr = dpedr.';
+    dpedz = dpedz.';
+
+    % Plasma current density
+    Jr(:,:,it+1)   = Jr(:,:,it) - dt*(Jr(:,:,it).*(v_ei + v_en + v_ion - v_loss) + e/me*(Bz.*Jphi(:,:,it) - Jz(:,:,it).*Bphi) - e/me*dpedr);
+    Jphi(:,:,it+1) = Jphi(:,:,it) - dt*(Jphi(:,:,it).*(v_ei + v_en + v_ion - v_loss) + e/me*(Br.*Jz(:,:,it) - Jr(:,:,it).*Bz));
+    Jz(:,:,it+1)   = Jz(:,:,it) - dt*(Jz(:,:,it).*(v_ei + v_en + v_ion - v_loss) + e/me*(Bphi.*Jr(:,:,it) - Jphi(:,:,it).*Br) - e/me*dpedz);
+    
+    % Plasma density
+    dn = n(:,:,it) + dt*(v_ion - v_loss);
+    ind = find(dn<n0);
+    dn(ind) = n0;
+    n(:,:,it+1) = dn;
+    n(1,:,it+1) = n0; n(end,:,it+1) = n0; n(:,1,it+1) = n0; n(:,end,it+1) = n0;
+
+    % Electron pressure
+    dn = pe(:,:,it) + dt*(2/3*(1 + (2*v_en + v_ion - v_loss)./v_ei/2).*rho.*(Jr(:,:,it).^2 + Jz(:,:,it).^2 + Jphi(:,:,it).^2) - 2*n(:,:,it)*e^2/mi.*rho.*(pe(:,:,it) - pion(:,:,it)));
+    ind = find(dn<e*n0*Te0);
+    dn(ind) = e*Te0*n0;
+    pe(:,:,it+1) = dn;
+    pe(1,:,it+1) = e*Te0*n0; pe(end,:,it+1) = e*Te0*n0; pe(:,1,it+1) = e*Te0*n0; pe(:,end,it+1) = e*Te0*n0;
+    
+    % Ion pressure
+    dn = pion(:,:,it) + dt*(2*n(:,:,it)*e^2/mi.*rho.*(pe(:,:,it) - pion(:,:,it)));
+    ind = find(dn<e*n0*Te0);
+    dn(ind) = e*Te0*n0;
+    pion(:,:,it+1) = dn;
+        pion(1,:,it+1) = e*Te0*n0; pion(end,:,it+1) = e*Te0*n0; pion(:,1,it+1) = e*Te0*n0; pion(:,end,it+1) = e*Te0*n0;
+    
+    % Transport coefficients
+    out = resistivity(n(:,:,it),pe(:,:,it)./n(:,:,it)/e,1);
+    v_ei = out.v_ei;
+    rho  = out.eta_par;
+    v_ion = a.*sqrt(Jr(:,:,it).^2 + Jphi(:,:,it).^2 + Jz(:,:,it).^2)/e./n(:,:,it);
+    v_loss = abs(Jr(:,:,it).*Br + Jphi(:,:,it).*Bphi + Jz(:,:,it).*Bz)./sqrt(Br.^2 + Bphi.^2 + Bz.^2)./n(:,:,it)/e./Leff;
+keyboard
+end
+%keyboard
+%% Plotting
+figure(1)
+clf
+contourf(r,z,n(:,:,it+1).',51)
+plot_tcabr(1)
+hold off
+colorbar
+
+%%
+if 0
+clear all
+syms Br Bz Bphi n e r Ephi
+A = [e*n*r Bz -Bphi;-Bz e*n*r Br;Bphi -Br e*n*r];
+J = simplify(inv(A)*[0; Ephi; 0]);
+end
+
+end  
+  
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+\end{flushleft}
+Função first townsend coeff, como o nome ja descreve, retorna o coeficiente de Townsnd
+\begin{flushleft}
+\begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+  
+  function a = first_townsend_coeff(p,E,gas,iplot)
+
+switch gas
+    case 'H2'
+        A = 4.8; % In units of [ 1 / ( cm . Torr ) ]
+        B = 136; % In units of [ V / ( cm . Torr ) ]
+    case 'N2'
+        A = 11.8;
+        B = 325;
+    case 'O2'
+        A = 6.5;
+        B = 190;
+    case 'He'
+        A = 2.8;
+        B = 77;
+    case 'Ne'
+        A = 4.4;
+        B = 111;
+    case 'Ar'
+        A = 11.5;
+        B = 176;
+    case 'Kr'
+        A = 15.6;
+        B = 220;
+    case 'Xe'
+        A = 24;
+        B = 330;
+    case 'CH4'
+        A = 17;
+        B = 300;
+    case 'CF4'
+        A = 11;
+        B = 213;
+end
+
+% Converting units from A[ 1 / ( cm . Torr ) ] into A[ 1 / ( m . Pa) ]
+% and from B[ V / ( cm . Torr ) ] into A[ V / ( m . Pa) ]
+A = A/1e-2/133.322;
+B = B/1e-2/133.322;
+
+% First Townsend coefficient
+a = A*p.*exp(-B*p./E);
+
+% Plotting
+if iplot
+    figure
+    plot(E,a)
+    xlabel('Electric Field ( V / m )')
+    title(['First Townsend Coefficient ( 1 / m ) for ' gas])
+
+    figure
+    plot(E,p)
+    xlabel('Gas Pressure ( Pa )')
+    title(['First Townsend Coefficient ( 1 / m ) for ' gas])
+end
+
+end 
+  
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+\end{flushleft}
+
+Função para controlar o ip.
+\begin{flushleft}
+\begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+  
+  function ip_control
+
+%%
+dtcharge = 40;
+dtup = 20;
+dttop = 60;
+dtdown = 20;
+Ip = 80e3;
+dtdecharge = 40;
+
+%%
+t1= -dtcharge*1e-3;
+t2 = 0;
+t3 = dtup*1e-3;
+t4 = (dtup + dttop)*1e-3;
+t5 = (dtup + dttop + dtdown)*1e-3;
+t6 = (dtup + dttop + dtdown + dtdecharge)*1e-3;
+
+%% Machine parameters
+Roh = 0.123e-3;
+Loh = 11e-3;
+M = 51e-6;
+Lp = 1.4e-6;
+
+% Solving equations
+t = linspace(t1-10e-3,t6+10e-3,1001).';
+Ip = interp1([t1 t2 t3 t4 t5 t6],[0 0 Ip Ip 0 0],t);
+Ip = smooth(Ip,5);
+Rp = 42./(Ip+1e3).^1.25;
+
+dIpdt = dFdx(t,Ip);
+dIohdt = -1/M*(Rp.*Ip + Lp*dIpdt);
+Ioh = integration(t,dIohdt,0);
+Ioh = Ioh + (max(Ioh) - min(Ioh))/2;
+Ioh(t <= 0) = max(Ioh) + max(Ioh)/(t2 - t1)*t(t<=0);
+Ioh(t >= t5) = min(Ioh(t>=t5 & t<=t5+1e-3)) - min(Ioh(t>=t5 & t<=t5+1e-3))/(t6-t5)*(t(t>=t5) - t5);
+Ioh(t <= t1 | t >= t6) = 0;
+dIohdt = dFdx(t,Ioh);
+V = Roh*Ioh + Loh*dIohdt + M*dIpdt;
+Rp(Rp>0.0009) = 1; % Just for plotting reasons
+
+% Plotting
+figure(1)
+clf
+plot(t*1000,Ip/100e3,'b','linewidth',2)
+hold on
+plot(t*1000,Ioh/1e3,'r','linewidth',2)
+plot(t*1000,V/1e3,'k','linewidth',2)
+plot(t*1000,Rp*1e3,'color',[0 0.5 0],'linewidth',2)
+%plot(t*1000,M*dIohdt,'color',[1 1 1]*0.4,'linewidth',2)
+hold off
+xlabel('Time ( ms )')
+legend('I_{Plasma} ( 100 kA )','I_{OH} ( kA )','V ( kV )','R_{plasma} ( m\Omega )')%,'V_{Loop}')
+axis([t1*1000-10 t6*1000+10 -4 4])
+
+figure(2)
+clf
+plot(Ioh/1e3,V/1e3,'b','linewidth',2)
+hold on
+plot([-6 6],[0 0],'k')
+plot([0 0],[-4 4],'k')
+hold off
+xlabel('I_{OH} ( kA )')
+ylabel('V ( kV )')
+axis([-4 4 -3 3])
+  
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+\end{flushleft}
+
+\begin{flushleft}
+\begin{center}
+\begin{scriptsize}
+\begin{verbatim}
+  
+  texte
+  
+\end{verbatim}
+\end{scriptsize}
+\end{center}
+\end{flushleft}
+\section{Tabela de Unidade Úteis}
+A Tabela \ref{tabela1} apresenta algumas unidades úteis para este trabalho.
+    
+    \begin{table}[ht]
+    \caption{Relação entre unidades}
+    \label{tabela1}
+    \begin{center}
+    \begin{tabular}{lll}
+    \hline 
+    Unidade & Simbolo & Relações \\ 
+    \hline 
+    Metro & $m$  & $\left[ \frac{N \cdot s^2}{Kg} \right]$ \\ 
+     \\
+    Kilograma  & $Kg$ & $\left[ \frac{J \cdot s^2}{m^2} \right]$  \\ 
+     \\
+    Newton & $N$  & $\left[  \frac{kg \cdot m}{s^2}\right]$ \\ 
+     \\   
+    Segundo & $s$  & $\vv{v} = \left[ m/s \right]$ \\ 
+     \\
+    Ampere & $A$  & $\left[ \frac{C}{s}\right]$ \\ 
+     \\
+    Coulonb & $C$  & $\left[ A \cdot s = F \cdot V\right]$ \\ 
+     \\
+    Tesla & $T$  & $\left[ \frac{V \cdot s}{m^2} = \frac{N}{A \cdot m} = \frac{J}{A \cdot m^2} \right]$ \\ 
+     \\
+    Joule & $J$  & $\left[ \frac{kg \cdot m^2}{s^2} \right]$ \\ 
+    \\
+    Farad & $F$  & $\left[ \frac{C}{V} = \frac{A \cdot s}{V} = \frac{J}{V^2} = \frac{s}{\Omega} = \frac{s^2 \cdot C^2}{m^2 \cdot Kg} \right]$ \\ 
+      \\  
+    Watt & $W$  & $\left[ \frac{J}{s} = \frac{N \cdot m}{s} = \frac{Kg \cdot m^2}{s^3} \right]$ \\ 
+    \\
+    Volt & $V$  & $\left[ A \cdot \Omega = \frac{W}{A} = \frac{J}{C} = \frac{eV}{e}\right]$ \\ 
+     \\
+    eletro-Volt & $eV$  & $\left[ 1.6 \times 10^{-19}J \right]$ \\
+    \\
+    Ohn & $\Omega$  & $\left[ \frac{V}{A} = \frac{W}{A^2} = \frac{V^2}{W} = \frac{s}{F} \right]$ \\ 
+  
+      
+    \hline
+    
+    \end{tabular}
+    \end{center}         
+    \end{table}
+  
+    
+ 
+\chapter{Conclusões}
+Acredita-se que este trabalho XXXXX.
+    
+\bibliography{referencias} 
+\begin{anexosenv}
+
+\addcontentsline{toc}{section}{References}
+\begin{thebibliography}{10}
+
+\bibitem{lao1985} L.L. Lao \textit{et al}, Nuclear Fusion (1985) \textbf{25} 1611
+
+\bibitem{lao1990} L.L. Lao \textit{et al}, Nuclear Fusion (1990) \textbf{30} 1035
+
+\bibitem{lao2005} L.L. Lao \textit{et al}, Fusion Science and Technology (2005) \textbf{48} 968
+
+\bibitem{mueller2013} D. Mueller, Physics of Plasmas (2013) \textbf{20} 058101
+
+\bibitem{sinha2017} J. Sinha, Thesis n$^{\mathrm{o}}$ 7825, Swiss Plasma Center - École Polytechnique Fédérale de Lausanne, \textit{Plasma breakdown and current formation in single core and doublet configurations on TCV}
+
+\bibitem{townsend1901} J.S. Townsend, Nature (1900) \textbf{62} 340
+
+\bibitem{papoular1976} R. Papoular, Nuclear Fusion (1976) \textbf{16} 37
+
+\bibitem{lloyd1991} B. Lloyd \textit{et al}., Nuclear Fusion (1991) \textbf{31} 2031
+
+\bibitem{lloyd1996} B. Lloyd \textit{et al}., Plasma Physics and Controlled Fusion (1996) \textbf{38} 1627
+
+\bibitem{belyakov2003} V.A. Belyakov \textit{et al}., Plasma Devices and Operations (2003) \textbf{11} 193
+
+\bibitem{kim2012} H.T. Kim \textit{et al}., Nuclear Fusion (2012) \textbf{52} 103016
+
+\bibitem{kim2013a} H.T. Kim \textit{et al}., Plasma Physics and Controlled Fusion (2013) \textbf{55} 124032
+
+\bibitem{kim2013b} H.T. Kim \textit{et al}., Journal of Nuclear Materials (2013) \textbf{438} S1271
+
+\bibitem{kim2013c} H.T. Kim \textit{et al}., Nuclear Fusion (2013) \textbf{53} 083024
+
+\bibitem{lister1997} J.B. Lister \textit{et al}., Fusion Technology (1997) \textbf{32} 321
+
+\bibitem{jackson2008} G.L. Jackson \textit{et al}., Nuclear Fusion (2008) \textbf{48} 125002
+
+\bibitem{jackson2009} G.L. Jackson \textit{et al}., Nuclear Fusion (2009) \textbf{49} 115027
+
+\bibitem{lrp162} A.D. Cheetham \textit{et al}., Internal Report, LRP 162/80 (1979), Centre de Recherches en Physique des Plasmas - École Polytechnique Fédérale de Lausanne, \textit{The TCA tokamak}
+
+\bibitem{walker2006} M.L. Walker, IEEE Control Systems Magazine, April 2006
+
+\bibitem{ariola2005} M. Ariola and A. Pironti, IEEE Control Systems Magazine, \textbf{25} 65, 2005
+
+\end{thebibliography}
+%\pageref{1}ABDOUNUR
+% 
+% Imprime uma página indicando o início dos anexos
+ \partanexos
+% 
+%% % ---
+
+%
+% 
+\end{anexosenv}
+\end{document}

@@ -1,0 +1,12 @@
+\contentsline {lstlisting}{\numberline {F.1}{Rotina principal expl\'icita no tempo para o breakdown no tokamak NOVA-FURG}}{102}{lstlisting.F.1}% 
+\contentsline {lstlisting}{\numberline {F.2}{Rotina principal para resolu\c c\~ao do sistema de EDP's.}}{104}{lstlisting.F.2}% 
+\contentsline {lstlisting}{\numberline {F.3}{Defini\c c\~ao do coeficiente $d$.}}{110}{lstlisting.F.3}% 
+\contentsline {lstlisting}{\numberline {F.4}{Defini\c c\~ao do coeficiente $c$.}}{110}{lstlisting.F.4}% 
+\contentsline {lstlisting}{\numberline {F.5}{Defini\c c\~ao do coeficiente $a$.}}{110}{lstlisting.F.5}% 
+\contentsline {lstlisting}{\numberline {F.6}{Defini\c c\~ao das condic\~oes in\'iciais e das condi\c c\~oes de contorno.}}{111}{lstlisting.F.6}% 
+\contentsline {lstlisting}{\numberline {F.7}{Defini\c c\~ao dos coeficientes $f$ para cada equa\c c\~ao.}}{111}{lstlisting.F.7}% 
+\contentsline {lstlisting}{\numberline {F.8}{Defini\c c\~ao da func\~ao que gera uma anima\c c\~ao com todos os tempos para as propriedades macrosc\'opicas.}}{112}{lstlisting.F.8}% 
+\contentsline {lstlisting}{\numberline {F.9}{Defini\c c\~ao da fun\c c\~ao que plota as solu\c c\~oes.}}{113}{lstlisting.F.9}% 
+\contentsline {lstlisting}{\numberline {F.10}{Defini\c c\~ao da fun\c c\~ao que interpola os campos eletromagneticos.}}{114}{lstlisting.F.10}% 
+\contentsline {lstlisting}{\numberline {F.11}{Defini\c c\~ao da func\~ao que calcula a resistividade.}}{115}{lstlisting.F.11}% 
+\contentsline {lstlisting}{\numberline {F.12}{Defini\c c\~ao da func\~ao que organiza o campo eletromagnetico a ser usado.}}{115}{lstlisting.F.12}% 
